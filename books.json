@@ -1,3944 +1,4594 @@
-[
-    {
-        "id": "1",
-        "name": "New GW and IELTS practice",
-        "author": "One stop english",
-        "genre": "Educational"
-    },
     {
         "id": "3",
         "name": "Atomic habits",
         "author": "James Clear",
-        "genre": "Personal growth"
+        "genre": "Personal growth",       
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FAtomic-Habits-Proven-Build-Break%2Fdp%2F0735211299&psig=AOvVaw2vTGNKfhECUaI7aVXg9WGS&ust=1731733099795000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi2zNTG3YkDFQAAAAAdAAAAABAE"
+        
     },
     {
         "id": "4",
         "name": "Common mistakes at IELTS",
         "author": "Pauline Cullen",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "5",
         "name": "ReWork",
         "author": "F.Freid & D.Heinmeire",
-        "genre": "Personal growth"
+        "genre": "Personal growth",
+      "image:"
     },
     {
         "id": "6",
         "name": "30 days change your habits",
         "author": "Marc Reklan",
-        "genre": "Personal growth"
+        "genre": "Personal growth",
+      "image:"
     },
     {
         "id": "7",
         "name": "The richest man in the Babylon",
         "author": "George.S.Clason",
-        "genre": "Personal financial growth"
+        "genre": "Personal financial growth",
+      "image:"
     },
     {
         "id": "8",
         "name": "Who will cry when you die?",
         "author": "Robin Sharma",
-        "genre": "Personal growth"
+        "genre": "Personal growth",
+      "image:"
     },
     {
         "id": "9",
         "name": "Top tips for IELTS academic",
         "author": "CUP",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "11",
         "name": "The little Prince",
         "author": "Antonie de Saint Exupery",
-        "genre": "Science Fantasy"
+        "genre": "Science Fantasy",
+      "image:"
     },
     {
         "id": "13",
         "name": "The key to IELTS success",
         "author": "Pauline Cullen",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "14",
         "name": "The key to IELTS success",
         "author": "Pauline Cullen",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "15",
         "name": "Common mistakes at IELTS",
         "author": "Julie Moore",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "16",
         "name": "Milliy taraqqiyotimizni qat’iyat bilan",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "17",
         "name": "Xalqimizning roziligi bizning faoliyatimizga",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "18",
         "name": "Niyati ulug’xalqning ishi ham ulug’",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "19",
         "name": "Milliy tiklanishdan milliy yuksalish sari",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "20",
         "name": "Yuqumlilik",
         "author": "Yona Berger",
-        "genre": "Personal growth"
+        "genre": "Personal growth",
+      "image:"
     },
     {
         "id": "21",
         "name": "Men va pul",
         "author": "Saidmurod Davlatov",
-        "genre": "Personal growth"
+        "genre": "Personal growth",
+      "image:"
     },
     {
         "id": "22",
         "name": "Ey,farzand",
         "author": "Abu Homid G’azzoliy",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "23",
         "name": "Haqiqiy omad kaliti yoxud savdogarlar",
         "author": "Axadquli Xolmuhammad",
-        "genre": "Personal growth"
+        "genre": "Personal growth",
+      "image:"
     },
     {
         "id": "24",
         "name": "Graf Monte Kristo",
         "author": "Aleksandr Dyuma",
-        "genre": "Novel, Romance, Historical, Adventure "
+        "genre": "Novel, Romance, Historical, Adventure ",
+      "image:"
     },
     {
         "id": "25",
         "name": "Sulton Jaloliddin Manguberdi",
         "author": "Baxtiyor Abdug’afur",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "26",
         "name": "Gruziya muvaffaqiyatga qanday",
         "author": "Larisa Burakova",
-        "genre": "Personal financial growth"
+        "genre": "Personal financial growth",
+      "image:"
     },
     {
         "id": "27",
         "name": "Menkim,fotih Temur",
         "author": "Marsel Brion",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "28",
         "name": "Uoll stritlik bo’ri uslubi",
         "author": "Jordan Belfort",
-        "genre": "Personal financial growth"
+        "genre": "Personal financial growth",
+      "image:"
     },
     {
         "id": "29",
         "name": "Hazrati Umar",
         "author": "Ahmad Lutfiy Qozonchi",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "30",
         "name": "Abdulhamidxon",
         "author": "Talha Ulgurluel",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "31",
         "name": "Siyosatnoma",
         "author": "Nizomulmuluk",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "32",
         "name": "Yulduzli tunlar",
         "author": "Pirimqul Qodirov",
-        "genre": "Historical novel"
+        "genre": "Historical novel",
+      "image:"
     },
     {
         "id": "33",
         "name": "Moviy ummon strategiyasi",
         "author": "Chan Kim & Rene Moborn",
-        "genre": "Personal financial growth"
+        "genre": "Personal financial growth",
+      "image:"
     },
     {
         "id": "34",
         "name": "Boburnoma",
         "author": "Z.M.Bobur",
-        "genre": "Historical novel"
+        "genre": "Historical novel",
+      "image:"
     },
     {
         "id": "35",
         "name": "Navoiy",
         "author": "Oybek",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "36",
         "name": "Graf Monte Kristo",
         "author": "Aleksandr Dyuma",
-        "genre": "Novel, Romance, Historical, Adventure "
+        "genre": "Novel, Romance, Historical, Adventure ",
+      "image:"
     },
     {
         "id": "37",
         "name": "Temur tuzuklari",
         "author": "Amir Temur",
-        "genre": "Historical novel, Personal growth"
+        "genre": "Historical novel, Personal growth",
+      "image:"
     },
     {
         "id": "38",
         "name": "Sitsiliyalik cho’qintirgan ota 2",
         "author": "Mario Pyuzo",
-        "genre": "Adventure"
+        "genre": "Adventure",
+      "image:"
     },
     {
         "id": "39",
         "name": "Baxt ulashing",
         "author": "Dr.Xasson Shamsiy",
-        "genre": "Personal growth"
+        "genre": "Personal growth",
+      "image:"
     },
     {
         "id": "40",
         "name": "Hukmdor",
         "author": "Nikolo Makiavelli",
-        "genre": "- I couldn't find that"
+        "genre": "- I couldn't find that",
+      "image:"
     },
     {
         "id": "41",
         "name": "Yetti majlis",
         "author": "Jaloliddin Rumiy",
-        "genre": "Historical "
+        "genre": "Historical ",
+      "image:"
     },
     {
         "id": "42",
         "name": "Kichkina shahzoda",
         "author": "Antuan de Sent Ekzyuperi",
-        "genre": "Science Fantasy"
+        "genre": "Science Fantasy",
+      "image:"
     },
     {
         "id": "43",
         "name": "Iskanja",
         "author": "Omina Shenliko’g’li",
-        "genre": "Historical novel, Personal growth"
+        "genre": "Historical novel, Personal growth",
+      "image:"
     },
     {
         "id": "44",
         "name": "Imomning maneken qizi",
         "author": "Omina Shenliko’g’li",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "45",
         "name": "Memory,meaning,method",
         "author": "Earl.W.Stevick",
-        "genre": "Educational, Non-fiction, Linguistics."
+        "genre": "Educational, Non-fiction, Linguistics.",
+      "image:"
     },
     {
         "id": "46",
         "name": "Marhamatli kun",
         "author": "Luqmon Bo’rixon",
-        "genre": "Fiction, Drama, and Social issues."
+        "genre": "Fiction, Drama, and Social issues.",
+      "image:"
     },
     {
         "id": "47",
         "name": "Jaholatga qarshi ma’rifat bilan kurash",
         "author": "-",
-        "genre": "Educational, Non-fiction, Social issues."
+        "genre": "Educational, Non-fiction, Social issues.",
+      "image:"
     },
     {
         "id": "48",
         "name": "Kallaxonalik yigitcha",
         "author": "Alisher Mirzo",
-        "genre": "Fiction, Drama, and Social issues."
+        "genre": "Fiction, Drama, and Social issues.",
+      "image:"
     },
     {
         "id": "49",
         "name": "Sizsiz qanday yashayman",
         "author": "Shahlo Hamidova",
-        "genre": "Fiction, Drama, Romance."
+        "genre": "Fiction, Drama, Romance.",
+      "image:"
     },
     {
         "id": "50",
         "name": "Maqsudam",
         "author": "Omon Matjon",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "51",
         "name": "Hayotim zarvarag’i",
         "author": "Husan Eshmurod",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "52",
         "name": "Baxt guli",
         "author": "Nafisa Davron",
-        "genre": "Fiction, Drama, Romance."
+        "genre": "Fiction, Drama, Romance.",
+      "image:"
     },
     {
         "id": "54",
         "name": "Halol luqma",
         "author": "Rauf Jillsun",
-        "genre": "Fiction, Educational, Social issues."
+        "genre": "Fiction, Educational, Social issues.",
+      "image:"
     },
     {
         "id": "55",
         "name": "0 dan boshlangan biznes",
         "author": "Erik ris",
-        "genre": "Educational, Non-fiction, Political."
+        "genre": "Educational, Non-fiction, Political.",
+      "image:"
     },
     {
         "id": "56",
         "name": "Islom ensiklopediyasi 1-jild",
         "author": "Abu Komil",
-        "genre": "Educational, Non-fiction, Religious."
+        "genre": "Educational, Non-fiction, Religious.",
+      "image:"
     },
     {
         "id": "58",
         "name": "Sannikov yeri",
         "author": "V.A.Obruchev",
-        "genre": "Fiction, Adventure, Science Fiction."
+        "genre": "Fiction, Adventure, Science Fiction.",
+      "image:"
     },
     {
         "id": "60",
         "name": "Zamona zayli",
         "author": "I.A.Goncharov",
-        "genre": "Fiction, Novel, Social issues."
+        "genre": "Fiction, Novel, Social issues.",
+      "image:"
     },
     {
         "id": "62",
         "name": "Bog’chasaroy fontani",
         "author": "A.S.Pushkin",
-        "genre": "Fiction, Novel, Historical."
+        "genre": "Fiction, Novel, Historical.",
+      "image:"
     },
     {
         "id": "64",
         "name": "Aka-uka Karamazovlar",
         "author": "F.M.Dostoevskiy",
-        "genre": "Fiction, Philosophical Novel,  Detective"
+        "genre": "Fiction, Philosophical Novel,  Detective",
+      "image:"
     },
     {
         "id": "66",
         "name": "Hayot bo’stoni",
         "author": "L.G.Bat; N.S.Tixonov",
-        "genre": "Novel."
+        "genre": "Novel.",
+      "image:"
     },
     {
         "id": "68",
         "name": "Iltijo",
         "author": "Y.A.Yevtushenko",
-        "genre": ""
+        "genre": "",
+      "image:"
     },
     {
         "id": "70",
         "name": "Kapitan qizi",
         "author": "A.S.Pushkin",
-        "genre": "Historical Novel."
+        "genre": "Historical Novel.",
+      "image:"
     },
     {
         "id": "72",
         "name": "Asosiy qahramonlarim-haqiqat",
         "author": "L.N.Tolstoy",
-        "genre": "Novel,"
+        "genre": "Novel,",
+      "image:"
     },
     {
         "id": "74",
         "name": "Arafa",
         "author": "I.S.Turgenev",
-        "genre": "Romance, Novel, Political Fiction"
+        "genre": "Romance, Novel, Political Fiction",
+      "image:"
     },
     {
         "id": "76",
         "name": "Urush va tinchlik 3 & 4",
         "author": "L.N.Tolstoy",
-        "genre": "Historical Novel, Romance, Fiction"
+        "genre": "Historical Novel, Romance, Fiction",
+      "image:"
     },
     {
         "id": "78",
         "name": "Bechora Liza",
         "author": "N.M.Karamzin",
-        "genre": "Novel, Short story"
+        "genre": "Novel, Short story",
+      "image:"
     },
     {
         "id": "80",
         "name": "Ikki kapitan She’rlar",
         "author": "V.A.Kaverin; M.A.Svetlov",
-        "genre": "Adventure Fiction"
+        "genre": "Adventure Fiction",
+      "image:"
     },
     {
         "id": "82",
         "name": "Vasiliy Tyorkin",
         "author": "A.T.Tvardovskiy",
-        "genre": "Poem"
+        "genre": "Poem",
+      "image:"
     },
     {
         "id": "84",
         "name": "Lochin haqida qo’shiq",
         "author": "M.Gorkiy",
-        "genre": "Poem in Prose"
+        "genre": "Poem in Prose",
+      "image:"
     },
     {
         "id": "86",
         "name": "Gulag arxipelagi",
         "author": "A.I.Soljenitsin",
-        "genre": "Novel, Non-fiction"
+        "genre": "Novel, Non-fiction",
+      "image:"
     },
     {
         "id": "88",
         "name": "Ko’r musiqachi",
         "author": "V.G.Koreolenko",
-        "genre": "Novel, Fiction"
+        "genre": "Novel, Fiction",
+      "image:"
     },
     {
         "id": "90",
         "name": "Xilvat xiyobonlar",
         "author": "I.A.Bunin",
-        "genre": "Fiction, Short story"
+        "genre": "Fiction, Short story",
+      "image:"
     },
     {
         "id": "92",
         "name": "Sepsiz qiz",
         "author": "A.N.Ostrovskiy",
-        "genre": "Historical novel"
+        "genre": "Historical novel",
+      "image:"
     },
     {
         "id": "94",
         "name": "Oq tun",
         "author": "A.A.Axmatova",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "96",
         "name": "Bolalik",
         "author": "M.Gorkiy",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "98",
         "name": "To’lqin va tosh",
         "author": "D.s.Samoylov",
-        "genre": ""
+        "genre": "",
+      "image:"
     },
     {
         "id": "100",
         "name": "Urush va tinchlik",
         "author": "L.N.Tolstoy",
-        "genre": "Novel, Historical"
+        "genre": "Novel, Historical",
+      "image:"
     },
     {
         "id": "102",
         "name": "Qora odam",
         "author": "S.A.Yesenin",
-        "genre": "poetry"
+        "genre": "poetry",
+      "image:"
     },
     {
         "id": "104",
         "name": "Insonga olqish;Orzular saltanati",
         "author": "V.Y.Bryusov;N.S.Gumilyov",
-        "genre": "Fiction, Poetry, Historical."
+        "genre": "Fiction, Poetry, Historical.",
+      "image:"
     },
     {
         "id": "106",
         "name": "Ro’yxatlarda yo’q edi nomi",
         "author": "B.L.Vasilyev",
-        "genre": "Fiction, Historical, Drama."
+        "genre": "Fiction, Historical, Drama.",
+      "image:"
     },
     {
         "id": "108",
         "name": "Ko’ngilli uchrashuv",
         "author": "M.M.Zoshchenko",
-        "genre": "Fiction, Novel, Humor."
+        "genre": "Fiction, Novel, Humor.",
+      "image:"
     },
     {
         "id": "110",
         "name": "G’ilof bandasi",
         "author": "A.P.Chexov",
-        "genre": "Fiction, Drama, Novel."
+        "genre": "Fiction, Drama, Novel.",
+      "image:"
     },
     {
         "id": "112",
         "name": "Janob Golovlyovlar",
         "author": "Saltikov Schedrin",
-        "genre": "Fiction, Novel, Political."
+        "genre": "Fiction, Novel, Political.",
+      "image:"
     },
     {
         "id": "114",
         "name": "Chol,qiz va oftob",
         "author": "V.M.Shukshin",
-        "genre": "Fiction, Novel, Drama."
+        "genre": "Fiction, Novel, Drama.",
+      "image:"
     },
     {
         "id": "116",
         "name": "Tovush soyasi",
         "author": "A.A.Voznesenskiy",
-        "genre": "Fiction, Poetry, Drama."
+        "genre": "Fiction, Poetry, Drama.",
+      "image:"
     },
     {
         "id": "118",
         "name": "Doktor Jivago",
         "author": "B.l.Pasternak",
-        "genre": "Fiction, Historical, Novel."
+        "genre": "Fiction, Historical, Novel.",
+      "image:"
     },
     {
         "id": "120",
         "name": "Amfibiya odam",
         "author": "A.R.Belyayev",
-        "genre": "Fiction, Adventure."
+        "genre": "Fiction, Adventure.",
+      "image:"
     },
     {
         "id": "122",
         "name": "Oltinchi palata",
         "author": "A.P.Chexov",
-        "genre": "Fiction, Drama, and Social issues."
+        "genre": "Fiction, Drama, and Social issues.",
+      "image:"
     },
     {
         "id": "124",
         "name": "Dengizda esgan shabada",
         "author": "K.G.Paustovskiy",
-        "genre": "Fiction, Adventure, and Drama."
+        "genre": "Fiction, Adventure, and Drama.",
+      "image:"
     },
     {
         "id": "126",
         "name": "Xo’rlanganlar va haqoratlanganlar",
         "author": "F.M.Dostoevskiy",
-        "genre": "Novel, Drama"
+        "genre": "Novel, Drama",
+      "image:"
     },
     {
         "id": "128",
         "name": "Tinch Don (1)",
         "author": "M.A.Sholoxov",
-        "genre": "Fiction, Historical, and Novel."
+        "genre": "Fiction, Historical, and Novel.",
+      "image:"
     },
     {
         "id": "130",
         "name": "Tinch Don (2)",
         "author": "M.A.Sholoxov",
-        "genre": "Fiction, Historical, and Novel."
+        "genre": "Fiction, Historical, and Novel.",
+      "image:"
     },
     {
         "id": "132",
         "name": "Tinch Don (3)",
         "author": "M.A.Sholoxov",
-        "genre": "Fiction, Historical, and Novel."
+        "genre": "Fiction, Historical, and Novel.",
+      "image:"
     },
     {
         "id": "134",
         "name": "Tinch Don (4)",
         "author": "M.A.Sholoxov",
-        "genre": "Fiction, Historical, and Novel."
+        "genre": "Fiction, Historical, and Novel.",
+      "image:"
     },
     {
         "id": "136",
         "name": "O’zbekiston respublikasining qizil kitobi (1)",
         "author": "O’simliklar haqida",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "137",
         "name": "O’zbekiston respublikasining qizil kitobi (2)",
         "author": "Hayvonlar haqida",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "138",
         "name": "O’zbekiston II jahon urushi davrida",
         "author": "Kitob albom",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "141",
         "name": "G’alaba bog’i falsafasi",
         "author": "Akmal Saidov",
-        "genre": "Educational, Non-fiction, Political."
+        "genre": "Educational, Non-fiction, Political.",
+      "image:"
     },
     {
         "id": "149",
         "name": "Four year results in pursuing",
         "author": "Development strategy center",
-        "genre": "Educational, Non-fiction, Political."
+        "genre": "Educational, Non-fiction, Political.",
+      "image:"
     },
     {
         "id": "150",
         "name": "Yangi O’zbekiston",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "158",
         "name": "Ijod bog’idan guldasta",
         "author": "Ijod maktablari",
-        "genre": "Educational, Children's literature."
+        "genre": "Educational, Children's literature.",
+      "image:"
     },
     {
         "id": "170",
         "name": "Kurash",
         "author": "Karimov.F.A",
-        "genre": "Educational, Non-fiction"
+        "genre": "Educational, Non-fiction",
+      "image:"
     },
     {
         "id": "172",
         "name": "Sh.M.Mirziyoyev Oliy majlisga murojaatnomasi",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "176",
         "name": "Sh.M.Mirziyoyev Poslanie",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "177",
         "name": "Sh.M.Mirziyoyev Address",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "178",
         "name": "Bo’zatov ilhomlari",
         "author": "Yoshlar bayozi",
-        "genre": "Educational, Non-fiction, Children's literature."
+    ,       "image:""genre": "Educational, Non-fiction, Children's literatur
+        e."
     },
     {
         "id": "197",
         "name": "Xamsa",
         "author": "Alisher Navoiy",
-        "genre": "Fiction, Poetry, Historical."
+        "genre": "Fiction, Poetry, Historical.",
+      "image:"
     },
     {
         "id": "198",
         "name": "Dunyoning ishlari",
         "author": "O’tkir Hoshimov",
-        "genre": "Fiction, Novel, Social issues."
+        "genre": "Fiction, Novel, Social issues.",
+      "image:"
     },
     {
         "id": "199",
         "name": "Million dollarlik xatolar",
         "author": "Pavel Annenkov",
-        "genre": "Educational, Non-fiction, Business."
+        "genre": "Educational, Non-fiction, Business.",
+      "image:"
     },
     {
         "id": "200",
         "name": "Alvido bolalik",
         "author": "Toxir Malik",
-        "genre": "Fiction, Children's literature."
+        "genre": "Fiction, Children's literature.",
+      "image:"
     },
     {
         "id": "201",
         "name": "Biz g’alaba qozonamiz",
         "author": "Shuhrat Sattorov",
-        "genre": "Educational, Non-fiction, Political."
+        "genre": "Educational, Non-fiction, Political.",
+      "image:"
     },
     {
         "id": "202",
         "name": "Ni-Si o’zini shakllantirish",
         "author": "Jen Sinsero",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "203",
         "name": "Mahzun bo’lma!",
         "author": "Shayx oiz al qarniy",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "204",
         "name": "Oq nilufarlar yurtida",
         "author": "Grigoriy Petrov",
-        "genre": "Fiction, Adventure, Historical."
+        "genre": "Fiction, Adventure, Historical.",
+      "image:"
     },
     {
         "id": "205",
         "name": "Alibaba Jek Ma bunyod etgan",
         "author": "Dunkan Klark",
-        "genre": "Biography"
+        "genre": "Biography",
+      "image:"
     },
     {
         "id": "206",
         "name": "Zukkolar va landovurlar",
         "author": "Malkolm Gladuel",
-        "genre": "Fiction, Comedy, Social issues."
+        "genre": "Fiction, Comedy, Social issues.",
+      "image:"
     },
     {
         "id": "207",
         "name": "Ota",
         "author": "Ulug’bek Hamdam",
-        "genre": "Fiction, Drama, Family."
+        "genre": "Fiction, Drama, Family.",
+      "image:"
     },
     {
         "id": "208",
         "name": "Marketing A dan Ya gacha",
         "author": "Filipp Kotler",
-        "genre": "Educational, Non-fiction, Business."
+        "genre": "Educational, Non-fiction, Business.",
+      "image:"
     },
     {
         "id": "209",
         "name": "Tirilish",
         "author": "Lev Tolstoy",
-        "genre": "Fiction, Drama, Historical."
+        "genre": "Fiction, Drama, Historical.",
+      "image:"
     },
     {
         "id": "210",
         "name": "SOS savol ortidagi savol",
         "author": "Jong G.Miller",
-        "genre": "Educational, Non-fiction, Psychology."
+        "genre": "Educational, Non-fiction, Psychology.",
+      "image:"
     },
     {
         "id": "211",
         "name": "Alif",
         "author": "Paolo Kaelo",
-        "genre": "Fiction, Fantasy, Philosophical."
+        "genre": "Fiction, Fantasy, Philosophical.",
+      "image:"
     },
     {
         "id": "212",
         "name": "Tadbirkorlar uchun 10 ta amr",
         "author": "Mario Bryulman",
-        "genre": "Educational, Non-fiction, Business."
+        "genre": "Educational, Non-fiction, Business.",
+      "image:"
     },
     {
         "id": "213",
         "name": "Mening hayotim",
         "author": "Xenri Ford",
-        "genre": "Biography, Non-fiction."
+        "genre": "Biography, Non-fiction.",
+      "image:"
     },
     {
         "id": "214",
         "name": "Bodo Shefer eng sara asar",
         "author": "Jahon bestselleri",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "215",
         "name": "Stiv Jobs",
         "author": "Uolter Ayzekson",
-        "genre": "Biography, Non-fiction."
+        "genre": "Biography, Non-fiction.",
+      "image:"
     },
     {
         "id": "216",
         "name": "Muvaffaqiyat kaliti",
         "author": "Deyl Karnegi",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "217",
         "name": "Bezovtalikdan qanday qutilib",
         "author": "Deyl Karnegi",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "218",
         "name": "O’ziga nisbatan ishonchni kuchaytirish",
         "author": "Deyl Karnegi",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "221",
         "name": "Navoiy",
         "author": "Muso Toshmuhammad o’g’li Oybek",
-        "genre": "Fiction, Historical, Biography."
+        "genre": "Fiction, Historical, Biography.",
+      "image:"
     },
     {
         "id": "222",
         "name": "Boburnoma",
         "author": "Zahiriddin Muhammad Bobur",
-        "genre": "Historical, Biography."
+        "genre": "Historical, Biography.",
+      "image:"
     },
     {
         "id": "223",
         "name": "Urush va tinchlik (1-2)",
         "author": "Lev Tolstoy",
-        "genre": "Fiction, Historical, Novel."
+        "genre": "Fiction, Historical, Novel.",
+      "image:"
     },
     {
         "id": "224",
         "name": "Urush va tinchlik (3-4)",
         "author": "Lev Tolstoy",
-        "genre": "Fiction, Historical, Novel."
+        "genre": "Fiction, Historical, Novel.",
+      "image:"
     },
     {
         "id": "225",
         "name": "O’gay ona,qaynona,so’nggi to’fon",
         "author": "Ahmad Lutfiy Qozonchi",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "226",
         "name": "O’tgan kunlar",
         "author": "Abdulla Qodiriy",
-        "genre": "Fiction, Historical, Novel."
+        "genre": "Fiction, Historical, Novel.",
+      "image:"
     },
     {
         "id": "227",
         "name": "Saylanma 1-jild",
         "author": "Tog’ay Murod",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "228",
         "name": "Robin Sharma",
         "author": "Jahon bestselleri",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "229",
         "name": "Ikki eshik orasi",
         "author": "O’tkir Hoshimov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "231",
         "name": "Ufq",
         "author": "Said Ahmad",
-        "genre": " Fiction, Poetry, Social issues."
+        "genre": " Fiction, Poetry, Social issues.",
+      "image:"
     },
     {
         "id": "232",
         "name": "Quyoshga qarab oqqan suv",
         "author": "Muhammad Yusuf",
-        "genre": "Novel, Adventure"
+        "genre": "Novel, Adventure",
+      "image:"
     },
     {
         "id": "233",
         "name": "Yulduzli tunlar",
         "author": "Pirimqul Qodirov",
-        "genre": "Fiction, Novel, Adventure."
+        "genre": "Fiction, Novel, Adventure.",
+      "image:"
     },
     {
         "id": "234",
         "name": "Artur Konan Doyal",
         "author": "Artur Konan Doyal",
-        "genre": "Fiction, Mystery, Detective."
+        "genre": "Fiction, Mystery, Detective.",
+      "image:"
     },
     {
         "id": "235",
         "name": "Bolalik xotiralarim",
         "author": "Muso Toshmuhammad o’g’li Oybek",
-        "genre": "Biography, Non-fiction."
+        "genre": "Biography, Non-fiction.",
+      "image:"
     },
     {
         "id": "237",
         "name": "O’tkan kunlar",
         "author": "Abdulla Qodiriy",
-        "genre": "Fiction, Historical, Novel."
+        "genre": "Fiction, Historical, Novel.",
+      "image:"
     },
     {
         "id": "238",
         "name": "Qutlug’ qon",
         "author": "Oybek",
-        "genre": "Historical, Novel, Social issues"
+        "genre": "Historical, Novel, Social issues",
+      "image:"
     },
     {
         "id": "239",
         "name": "Kafansiz ko’milganlar",
         "author": "Shukurullo",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "240",
         "name": "Hazrati Xizr izidan",
         "author": "Isajon Sulton",
-        "genre": "Fiction, Adventure, Religious."
+        "genre": "Fiction, Adventure, Religious.",
+      "image:"
     },
     {
         "id": "241",
         "name": "Temur tuzuklari",
         "author": "Xalqaro Amir Temur jamg’armasi",
-        "genre": " Historical, Non-fiction, Biography"
+        "genre": " Historical, Non-fiction, Biography",
+      "image:"
     },
     {
         "id": "242",
         "name": "Menkim,sohibqiron jahongir Temur",
         "author": "Marsel Brion",
-        "genre": "Biography, Historical, Non-fiction."
+        "genre": "Biography, Historical, Non-fiction.",
+      "image:"
     },
     {
         "id": "243",
         "name": "Jon Kexo eng sara asarlari",
         "author": "Jahon bestselleri",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "244",
         "name": "O’n besh yoshli kapitan",
         "author": "Jyul Vern",
-        "genre": "Fiction, Adventure, Novel."
+        "genre": "Fiction, Adventure, Novel.",
+      "image:"
     },
     {
         "id": "245",
         "name": "Deutsche maler Usbekistan",
         "author": "-",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "246",
         "name": "Samardorlikning 21 yili",
         "author": "Brayan Treysi",
-        "genre": "Educational, Non-fiction, Business."
+        "genre": "Educational, Non-fiction, Business.",
+      "image:"
     },
     {
         "id": "247",
         "name": "Bo’ri o’g’li",
         "author": "Jek London",
-        "genre": "Fiction, Adventure, Drama."
+        "genre": "Fiction, Adventure, Drama.",
+      "image:"
     },
     {
         "id": "248",
         "name": "Tafakkur manzaralari",
         "author": "Farmon Toshev",
-        "genre": "Educational, Non-fiction, Philosophy."
+        "genre": "Educational, Non-fiction, Philosophy.",
+      "image:"
     },
     {
         "id": "249",
         "name": "Samarqand ijodkorlari",
         "author": "Zarafshon gazetasi",
-        "genre": "Educational, Non-fiction, Literature."
+        "genre": "Educational, Non-fiction, Literature.",
+      "image:"
     },
     {
         "id": "250",
         "name": "Adolat yo’li",
         "author": "O’zbekiston yozuvchilar uyushmasi",
-        "genre": "Educational, Non-fiction, Social issues."
+        "genre": "Educational, Non-fiction, Social issues.",
+      "image:"
     },
     {
         "id": "251",
         "name": "El netib topgay meni",
         "author": "Farmon Toshev",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "252",
         "name": "Mezon bayozi",
         "author": "Farmon Toshev",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "253",
         "name": "Qanday qilib do’st orttirish",
         "author": "Deyl Karnegi",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "254",
         "name": "O’zbekiston Respublikasi Konstitutsiyasi",
         "author": "-",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "255",
         "name": "Qadimiy qo’shiq",
         "author": "Zulfiya Qurolboy qizi",
-        "genre": "Fiction, Poetry, Cultural."
+        "genre": "Fiction, Poetry, Cultural.",
+      "image:"
     },
     {
         "id": "256",
         "name": "Diqqat",
         "author": "Kel Nyuport",
-        "genre": "Educational, Non-fiction, Psychology."
+        "genre": "Educational, Non-fiction, Psychology.",
+      "image:"
     },
     {
         "id": "257",
         "name": "Ikki eshik orasi",
         "author": "O’tkir Hoshimov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "258",
         "name": "Ulug’bek xazinasi",
         "author": "Odil Yoqubov",
-        "genre": "Fiction, Historical, Adventure."
+        "genre": "Fiction, Historical, Adventure.",
+      "image:"
     },
     {
         "id": "259",
         "name": "Zulmat ichra nur",
         "author": "Mirkarim Osim",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "260",
         "name": "Kecha va kunduz",
         "author": "Abdulhamid Cho’lpon",
-        "genre": "Fiction, Historical, Drama."
+        "genre": "Fiction, Historical, Drama.",
+      "image:"
     },
     {
         "id": "261",
         "name": "Chinor",
         "author": "Asqad Muxtor",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "262",
         "name": "Qir ustidagi ayol",
         "author": "Jamila Ergasheva",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "263",
         "name": "Kechikkan iqror",
         "author": "Zulayho Masharipova",
-        "genre": "Fiction, Drama, Mystery."
+        "genre": "Fiction, Drama, Mystery.",
+      "image:"
     },
     {
         "id": "264",
         "name": "Dor ostidagi odam",
         "author": "Amina Shenliko’g’li",
-        "genre": "Fiction, Mystery, Drama."
+        "genre": "Fiction, Mystery, Drama.",
+      "image:"
     },
     {
         "id": "265",
         "name": "Imomning maneken qizi",
         "author": "Amina Shenliko’g’li",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "266",
         "name": "Daftar hoshiyasidagi bitiklar",
         "author": "O’tkir Hoshimov",
-        "genre": "Fiction, Social issues"
+        "genre": "Fiction, Social issues",
+      "image:"
     },
     {
         "id": "267",
         "name": "Temuriylar kutubxonasining siri",
         "author": "Komil Sindarov",
-        "genre": "Fiction, Historical, Adventure."
+        "genre": "Fiction, Historical, Adventure.",
+      "image:"
     },
     {
         "id": "268",
         "name": "G’ilof bandasi",
         "author": "A.P.Chexov",
-        "genre": "Fiction, Drama, Novel."
+        "genre": "Fiction, Drama, Novel.",
+      "image:"
     },
     {
         "id": "269",
         "name": "Ikki kapitan Sirlar",
         "author": "V.A.Kaverin  M.A.Svetlov",
-        "genre": "Fiction, Adventure, Mystery."
+        "genre": "Fiction, Adventure, Mystery.",
+      "image:"
     },
     {
         "id": "270",
         "name": "Bog’chasaroy fontani",
         "author": "A.S.Pushkin",
-        "genre": "Fiction, Poetry, Historical."
+        "genre": "Fiction, Poetry, Historical.",
+      "image:"
     },
     {
         "id": "272",
         "name": "Ulug’bek xazinasi",
         "author": "O.Yoqubov",
-        "genre": "Fiction, Historical, Adventure."
+        "genre": "Fiction, Historical, Adventure.",
+      "image:"
     },
     {
         "id": "273",
         "name": "G’aznaviylar",
         "author": "Maqsud Qoriyev",
-        "genre": "Fiction, Historical, Novel."
+        "genre": "Fiction, Historical, Novel.",
+      "image:"
     },
     {
         "id": "274",
         "name": "Bolalik",
         "author": "Oybek",
-        "genre": "Biography, Non-fiction."
+        "genre": "Biography, Non-fiction.",
+      "image:"
     },
     {
         "id": "275",
         "name": "Avlodlar dovoni",
         "author": "Pirimqul Qodirov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "276",
         "name": "Ikki eshik orasi",
         "author": "O’tkir Hoshimov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "278",
         "name": "Skafandr va kapalak",
         "author": "Jan-Dominik Bobi",
-        "genre": "Fiction."
+        "genre": "Fiction.",
+      "image:"
     },
     {
         "id": "279",
         "name": "Hayotga “ha”de!",
         "author": "Viktor Emil Frankl",
-        "genre": "Educational, Non-fiction, Philosophy."
+        "genre": "Educational, Non-fiction, Philosophy.",
+      "image:"
     },
     {
         "id": "280",
         "name": "Asl otalar kitobi",
         "author": "Jalolxon Umarov",
-        "genre": "Educational, Non-fiction, History."
+        "genre": "Educational, Non-fiction, History.",
+      "image:"
     },
     {
         "id": "281",
         "name": "Liderlikning 21 muqarrar qonuni",
         "author": "Jon Maksvell",
-        "genre": "Non-fiction, Educational, Business"
+        "genre": "Non-fiction, Educational, Business",
+      "image:"
     },
     {
         "id": "282",
         "name": "Asl otalar kitobi",
         "author": "Jalolxon Umarov",
-        "genre": "Fiction, Historical, Drama."
+        "genre": "Fiction, Historical, Drama.",
+      "image:"
     },
     {
         "id": "283",
         "name": "Qutlug’ qon",
         "author": "Oybek",
-        "genre": "Biography, Historical, Non-fiction."
+        "genre": "Biography, Historical, Non-fiction.",
+      "image:"
     },
     {
         "id": "284",
         "name": "Menkim,sohibqiron jahongir",
         "author": "Marsel Brion",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "285",
         "name": "Muvaffaqiyatli insonlartning 7 ko’nikmasi",
         "author": "Stiven R.Kovi",
-        "genre": "Fiction, Novel, Social issues."
+        "genre": "Fiction, Novel, Social issues.",
+      "image:"
     },
     {
         "id": "286",
         "name": "Choliqushi",
         "author": "Rashod Nuri Guntekin",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "289",
         "name": "Ikki eshik orasi",
         "author": "O’tkir Hoshimov",
-        "genre": "Fiction, Historical, Biography."
+        "genre": "Fiction, Historical, Biography.",
+      "image:"
     },
     {
         "id": "290",
         "name": "Humoyun va Akbar",
         "author": "Pirimqul Qodirov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "291",
         "name": "Mehrobdan chayon",
         "author": "Abdulla Qodiriy",
-        "genre": "Historical, Adventure."
+        "genre": "Historical, Adventure.",
+      "image:"
     },
     {
         "id": "292",
         "name": "Ulug’bek xazinasi",
         "author": "Odil Yoqubov",
-        "genre": " Fiction, Historical, Adventure."
+        "genre": " Fiction, Historical, Adventure.",
+      "image:"
     },
     {
         "id": "293",
         "name": "Sarob",
         "author": "Abdulla Qahhor",
-        "genre": "Fiction, Drama, Psychological."
+        "genre": "Fiction, Drama, Psychological.",
+      "image:"
     },
     {
         "id": "294",
         "name": "ReWork prinsiplarsiz biznes",
         "author": "Jeyson Frayd va Devid",
-        "genre": "Educational, Non-fiction, Business."
+        "genre": "Educational, Non-fiction, Business.",
+      "image:"
     },
     {
         "id": "295",
         "name": "Mogikane Parija",
         "author": "Aleksandr Dyuma",
-        "genre": "Fiction, Adventure, Historical."
+        "genre": "Fiction, Adventure, Historical.",
+      "image:"
     },
     {
         "id": "296",
         "name": "Uchimsya govorit po russki",
         "author": "T.T.Keldiyev",
-        "genre": "Educational, Non-fiction, Language."
+        "genre": "Educational, Non-fiction, Language.",
+      "image:"
     },
     {
         "id": "297",
         "name": "Bilmasvoy bilan do’stlarining",
         "author": "Nikolay Nosov",
-        "genre": "Fiction, Children's literature, Adventure."
+        "genre": "Fiction, Children's literature, Adventure.",
+      "image:"
     },
     {
         "id": "298",
         "name": "Gulyashiye lyudi",
         "author": "A.Chapigin",
-        "genre": "Fiction, Drama, Comedy."
+        "genre": "Fiction, Drama, Comedy.",
+      "image:"
     },
     {
         "id": "299",
         "name": "Chorniye Korsar",
         "author": "Emilio Salgari",
-        "genre": "Fiction, Adventure, Historical."
+        "genre": "Fiction, Adventure, Historical.",
+      "image:"
     },
     {
         "id": "300",
         "name": "Stixotvoreniya",
         "author": "Genrix Geyne",
-        "genre": "Poetry, Fiction, Literary."
+        "genre": "Poetry, Fiction, Literary.",
+      "image:"
     },
     {
         "id": "301",
         "name": "Tainstvenniy ostrov",
         "author": "Jyul Vern",
-        "genre": "Fiction, Adventure."
+        "genre": "Fiction, Adventure.",
+      "image:"
     },
     {
         "id": "302",
         "name": "Robinzon Kruzo",
         "author": "Daniel Defo",
-        "genre": "Fiction, Adventure."
+        "genre": "Fiction, Adventure.",
+      "image:"
     },
     {
         "id": "304",
         "name": "Qashqadaryo qahramonlari",
         "author": "Yusuf Berdiyev",
-        "genre": "Educational, Non-fiction, History."
+        "genre": "Educational, Non-fiction, History.",
+      "image:"
     },
     {
         "id": "305",
         "name": "Sen qaytmasang…..",
         "author": "Nazar Shukur",
-        "genre": "Fiction, Drama, Romance."
+        "genre": "Fiction, Drama, Romance.",
+      "image:"
     },
     {
         "id": "306",
         "name": "Buvim ertak aytganda",
         "author": "Fayzi Shohismoil",
-        "genre": "Fiction, Children's literature, Fantasy."
+        "genre": "Fiction, Children's literature, Fantasy.",
+      "image:"
     },
     {
         "id": "307",
         "name": "Ko’ngilli uchrashuv",
         "author": "M.M.Zoshchenko",
-        "genre": "Fiction, Drama, Comedy."
+        "genre": "Fiction, Drama, Comedy.",
+      "image:"
     },
     {
         "id": "308",
         "name": "Sohibqironni anglash",
         "author": "Baxtiyor Haydarov",
-        "genre": "Educational, Non-fiction, History."
+        "genre": "Educational, Non-fiction, History.",
+      "image:"
     },
     {
         "id": "309",
         "name": "Hayrat mulki",
         "author": "Turdi Haydar",
-        "genre": "Fiction, Adventure, Fantasy."
+        "genre": "Fiction, Adventure, Fantasy.",
+      "image:"
     },
     {
         "id": "310",
         "name": "Daryo kabi uyg’oq o’turman",
         "author": "Hamid Olimjon",
-        "genre": "Poetry, Fiction, Social issues."
+        "genre": "Poetry, Fiction, Social issues.",
+      "image:"
     },
     {
         "id": "311",
         "name": "Kapitan qizi & Zamonamiz qahramonlari",
         "author": "A.S.Pushkin & M.Yu.Lermontov",
-        "genre": "Fiction, Adventure, Historical."
+        "genre": "Fiction, Adventure, Historical.",
+      "image:"
     },
     {
         "id": "312",
         "name": "Nafs kishanlari",
         "author": "Tohir Malik",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "313",
         "name": "Uyalchang chuvalchang",
         "author": "A.Xudoyberganov",
-        "genre": "Fiction, Comedy, Children's literature."
+        "genre": "Fiction, Comedy, Children's literature.",
+      "image:"
     },
     {
         "id": "315",
         "name": "O’tkan kunlar ibrati",
         "author": "Bahodir Karim",
-        "genre": "Fiction, Historical, Social issues."
+        "genre": "Fiction, Historical, Social issues.",
+      "image:"
     },
     {
         "id": "316",
         "name": "Komillik istagi",
         "author": "Husan Maqsud",
-        "genre": "Educational, Non-fiction, Philosophy."
+        "genre": "Educational, Non-fiction, Philosophy.",
+      "image:"
     },
     {
         "id": "317",
         "name": "Sog’inch daftari",
         "author": "O’ktam Mirzayor",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "318",
         "name": "Hayot",
         "author": "Gi.De.Mopassan",
-        "genre": "Fiction, Drama, Philosophy."
+        "genre": "Fiction, Drama, Philosophy.",
+      "image:"
     },
     {
         "id": "319",
         "name": "Chingizxonning oltin taxti",
         "author": "Nurali Qobil",
-        "genre": "Fiction, Historical, Adventure."
+        "genre": "Fiction, Historical, Adventure.",
+      "image:"
     },
     {
         "id": "320",
         "name": "Najot",
         "author": "Pirimqul Qodirov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "321",
         "name": "Jon",
         "author": "Andrey Platonov",
-        "genre": "Fiction, Drama, Psychological."
+        "genre": "Fiction, Drama, Psychological.",
+      "image:"
     },
     {
         "id": "322",
         "name": "Adolat manzili",
         "author": "Odil Yoqubov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "323",
         "name": "Qiyomat",
         "author": "Chingiz Aytmatov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "324",
         "name": "Yashirin xazina",
         "author": "O.Genri",
-        "genre": "Fiction, Adventure, Mystery."
+        "genre": "Fiction, Adventure, Mystery.",
+      "image:"
     },
     {
         "id": "325",
         "name": "Sultonning so’nggi kuni",
         "author": "Nurali Qobil",
-        "genre": "Fiction, Historical, Drama."
+        "genre": "Fiction, Historical, Drama.",
+      "image:"
     },
     {
         "id": "326",
         "name": "Quyonlar saltanati",
         "author": "Xudoyberdi To’xtaboyev",
-        "genre": "Fiction, Social issues."
+        "genre": "Fiction, Social issues.",
+      "image:"
     },
     {
         "id": "327",
         "name": "Ajdodlarimiz fojiasi",
         "author": "Mirkarim Osim",
-        "genre": "Fiction, Drama, Historical."
+        "genre": "Fiction, Drama, Historical.",
+      "image:"
     },
     {
         "id": "328",
         "name": "Sarmoya tikish san’ati",
         "author": "Robert Kiyosaki",
-        "genre": "Educational, Non-fiction, Business."
+        "genre": "Educational, Non-fiction, Business.",
+      "image:"
     },
     {
         "id": "329",
         "name": "Bechora Liza",
         "author": "N.M.Karamzin",
-        "genre": "Fiction, Historical, Drama."
+        "genre": "Fiction, Historical, Drama.",
+      "image:"
     },
     {
         "id": "330",
         "name": "Arafa",
         "author": "I.S.Turgenev",
-        "genre": "Drama, Social issues."
+        "genre": "Drama, Social issues.",
+      "image:"
     },
     {
         "id": "331",
         "name": "Kapitan qizi",
         "author": "A.S.Pushkin",
-        "genre": "Fiction, Adventure, Historical."
+        "genre": "Fiction, Adventure, Historical.",
+      "image:"
     },
     {
         "id": "332",
         "name": "Asosiy qahramonlarim haqiqat",
         "author": "L.N.Tolstoy",
-        "genre": "Biography, Non-fiction."
+        "genre": "Biography, Non-fiction.",
+      "image:"
     },
     {
         "id": "333",
         "name": "Yangi O’zbekiston",
         "author": "Siyosiy kitob",
-        "genre": "Educational, Non-fiction, Political."
+        "genre": "Educational, Non-fiction, Political.",
+      "image:"
     },
     {
         "id": "335",
         "name": "Davlat tilida ish yuritish",
         "author": "M.Aminov",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "340",
         "name": "Ijtimoiy-siyosiy terminlarning qisqacha izohli lug’ati",
         "author": "A.Madvaliyev",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "342",
         "name": "O’zbek tili me’yorlari",
         "author": "Nizomiddin Mahmudov",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "344",
         "name": "Usta va margarita",
         "author": "M.A.Bulgakov",
-        "genre": "Fiction, Fantasy, Historical."
+        "genre": "Fiction, Fantasy, Historical.",
+      "image:"
     },
     {
         "id": "345",
         "name": "Lev Tolstoy",
         "author": "V.B.Shklovskiy",
-        "genre": "Biography, Non-fiction, Literary."
+        "genre": "Biography, Non-fiction, Literary.",
+      "image:"
     },
     {
         "id": "346",
         "name": "Qafasdagi qush",
         "author": "V.V.Xlebnikov",
-        "genre": "Fiction, Drama, Psychological."
+        "genre": "Fiction, Drama, Psychological.",
+      "image:"
     },
     {
         "id": "347",
         "name": "Qatl marosimiga marhamat",
         "author": "V.V.Nabokov",
-        "genre": "Fiction, Drama, Mystery."
+        "genre": "Fiction, Drama, Mystery.",
+      "image:"
     },
     {
         "id": "348",
         "name": "Xayol chechaklari",
         "author": "V.P.Katayev",
-        "genre": "Fiction, Poetry, Drama."
+        "genre": "Fiction, Poetry, Drama.",
+      "image:"
     },
     {
         "id": "349",
         "name": "Telba",
         "author": "F.M.Dostoevskiy",
-        "genre": "Fiction, Psychological, Drama."
+        "genre": "Fiction, Psychological, Drama.",
+      "image:"
     },
     {
         "id": "350",
         "name": "Tungi binafsha",
         "author": "A.I. Kuprin",
-        "genre": "Fiction, Drama, Romance."
+        "genre": "Fiction, Drama, Romance.",
+      "image:"
     },
     {
         "id": "351",
         "name": "Dersu uzala",
         "author": "V.K. Arsenyev",
-        "genre": "Fiction, Adventure."
+        "genre": "Fiction, Adventure.",
+      "image:"
     },
     {
         "id": "352",
         "name": "Ulug’ Pyotr",
         "author": "A.N. Tolstoy",
-        "genre": "Fiction, Historical, Biography."
+        "genre": "Fiction, Historical, Biography.",
+      "image:"
     },
     {
         "id": "353",
         "name": "Dengiz egizim mening",
         "author": "M.I.Svetayeva",
-        "genre": "Poetry, Fiction, Social issues."
+        "genre": "Poetry, Fiction, Social issues.",
+      "image:"
     },
     {
         "id": "354",
         "name": "Sening isming",
         "author": "P.I.Proskurin",
-        "genre": "Fiction, Drama, Psychological."
+        "genre": "Fiction, Drama, Psychological.",
+      "image:"
     },
     {
         "id": "355",
         "name": "Tiniq ko’llar",
         "author": "Y.M.Nagibin",
-        "genre": "Fiction, Drama, Psychological."
+        "genre": "Fiction, Drama, Psychological.",
+      "image:"
     },
     {
         "id": "356",
         "name": "Volkolamsk yo’lida",
         "author": "A.A.Bek",
-        "genre": "Fiction, Historical."
+        "genre": "Fiction, Historical.",
+      "image:"
     },
     {
         "id": "357",
         "name": "Paganini qismati",
         "author": "A.K.Vinogradov",
-        "genre": "Fiction, Biography, Historical."
+        "genre": "Fiction, Biography, Historical.",
+      "image:"
     },
     {
         "id": "358",
         "name": "Sevgi sadosi",
         "author": "R.I.Rojdestvenskiy",
-        "genre": "Poetry, Fiction, Romance."
+        "genre": "Poetry, Fiction, Romance.",
+      "image:"
     },
     {
         "id": "359",
         "name": "Bu mening qo’shig’im",
         "author": "B.Sh.Okudjava",
-        "genre": "Poetry, Fiction, Social issues."
+        "genre": "Poetry, Fiction, Social issues.",
+      "image:"
     },
     {
         "id": "360",
         "name": "Jinoyat va jazo",
         "author": "F.M.Dostaevskiy",
-        "genre": "Fiction, Drama, Psychological."
+        "genre": "Fiction, Drama, Psychological.",
+      "image:"
     },
     {
         "id": "361",
         "name": "Chingizxon,Botuxon",
         "author": "V.G.Van",
-        "genre": "Historical, Biography."
+        "genre": "Historical, Biography.",
+      "image:"
     },
     {
         "id": "362",
         "name": "Omon bo’lsang, unutma",
         "author": "V.G.Rasutin",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "363",
         "name": "12 stul. Otin buzoq",
         "author": "Ilya Ilf I.Y.Petrov",
-        "genre": "Fiction, Comedy, Adventure."
+        "genre": "Fiction, Comedy, Adventure.",
+      "image:"
     },
     {
         "id": "364",
         "name": "Iblislar",
         "author": "F.M.Dostaevskiy",
-        "genre": "Fiction, Drama, Psychological."
+        "genre": "Fiction, Drama, Psychological.",
+      "image:"
     },
     {
         "id": "365",
         "name": "Ityurak",
         "author": "M.A.Bulgakov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "366",
         "name": "Oq kamalak",
         "author": "M.M.Prishvin",
-        "genre": "Fiction, Adventure, Poetry."
+        "genre": "Fiction, Adventure, Poetry.",
+      "image:"
     },
     {
         "id": "367",
         "name": "Sarkash dunyo",
         "author": "V.Y.Shishkov",
-        "genre": "Fiction, Drama, Social issues."
+        "genre": "Fiction, Drama, Social issues.",
+      "image:"
     },
     {
         "id": "368",
         "name": "Pryaslinlar",
         "author": "F.A.Abramov",
-        "genre": "Fiction, Drama, Adventure."
+        "genre": "Fiction, Drama, Adventure.",
+      "image:"
     },
     {
         "id": "369",
         "name": "Moskva afsonasi",
         "author": "V.P.Aksyanov",
-        "genre": "Fiction, Historical, Drama."
+        "genre": "Fiction, Historical, Drama.",
+      "image:"
     },
     {
         "id": "370",
         "name": "Bulbul chamani",
         "author": "A.A.Blok",
-        "genre": "Fiction, Poetry, Drama"
+        "genre": "Fiction, Poetry, Drama",
+      "image:"
     },
     {
         "id": "371",
         "name": "Uxlar edi oltin bulutcha",
         "author": "A.I.Pristavkin",
-        "genre": "Fiction, Historical"
+        "genre": "Fiction, Historical",
+      "image:"
     },
     {
         "id": "372",
         "name": "Nima qilmoq kerak?",
         "author": "N.G.Chernishevskiy",
-        "genre": "Fiction, Political, Social issues"
+        "genre": "Fiction, Political, Social issues",
+      "image:"
     },
     {
         "id": "373",
         "name": "Kechmish va o’ylar",
         "author": "A.I.Gersen",
-        "genre": "Fiction, Social issues"
+        "genre": "Fiction, Social issues",
+      "image:"
     },
     {
         "id": "374",
         "name": "Qirg’oq",
         "author": "Y.V.Bondarev",
-        "genre": "Fiction, Drama, Psychological"
+        "genre": "Fiction, Drama, Psychological",
+      "image:"
     },
     {
         "id": "375",
         "name": "Peterburgdan Moskvaga sayohat",
         "author": "A.N.Radishchev",
-        "genre": "Fiction, Travel, Historical"
+        "genre": "Fiction, Travel, Historical",
+      "image:"
     },
     {
         "id": "376",
         "name": "Ko’rfaz yog’dusi",
         "author": "I.A.Brodskiy",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "377",
         "name": "Ivan Denisovichning bir kuni",
         "author": "A.I.Soljenitsin",
-        "genre": "Fiction, Drama, Psychological"
+        "genre": "Fiction, Drama, Psychological",
+      "image:"
     },
     {
         "id": "378",
         "name": "Rus o’rmoni",
         "author": "I.M.Leonov",
-        "genre": "Fiction, Adventure"
+        "genre": "Fiction, Adventure",
+      "image:"
     },
     {
         "id": "379",
         "name": "Sharafli umr",
         "author": "V.S.Pikul",
-        "genre": "Fiction, Historical, Drama"
+        "genre": "Fiction, Historical, Drama",
+      "image:"
     },
     {
         "id": "380",
         "name": "Uch baqaloq",
         "author": "Y.K.Olesha",
-        "genre": "Fiction, Fantasy, Comedy"
+        "genre": "Fiction, Fantasy, Comedy",
+      "image:"
     },
     {
         "id": "381",
         "name": "Bog’bon",
         "author": "B.A.Axmadulina",
-        "genre": "Fiction, Poetry, Nature"
+        "genre": "Fiction, Poetry, Nature",
+      "image:"
     },
     {
         "id": "382",
         "name": "Oq va qora",
         "author": "V.V.Mayakovskiy",
-        "genre": "Fiction, Poetry, Drama"
+        "genre": "Fiction, Poetry, Drama",
+      "image:"
     },
     {
         "id": "383",
         "name": "Toma Gordeyev",
         "author": "M.Gorkiy",
-        "genre": "Fiction, Historical, Adventure"
+        "genre": "Fiction, Historical, Adventure",
+      "image:"
     },
     {
         "id": "384",
         "name": "Moskva va moskvaliklar",
         "author": "V.A.Gilyarovskiy",
-        "genre": "Fiction, Historical"
+        "genre": "Fiction, Historical",
+      "image:"
     },
     {
         "id": "385",
         "name": "Ko’rishmaymiz endi sen bilan",
         "author": "K.M.Simonov",
-        "genre": "Fiction, Drama, Romance"
+        "genre": "Fiction, Drama, Romance",
+      "image:"
     },
     {
         "id": "386",
         "name": "Tungi quyosh",
         "author": "O.E.Mandelshtam",
-        "genre": "Fiction, Poetry, Historical"
+        "genre": "Fiction, Poetry, Historical",
+      "image:"
     },
     {
         "id": "387",
         "name": "Pushkin",
         "author": "Y.N.Tinyanov",
-        "genre": "Fiction, Historical, Biography"
+        "genre": "Fiction, Historical, Biography",
+      "image:"
     },
     {
         "id": "388",
         "name": "O’rmonlar orasida",
         "author": "V.F.Tendryakov",
-        "genre": "Fiction, Historical, Drama"
+        "genre": "Fiction, Historical, Drama",
+      "image:"
     },
     {
         "id": "389",
         "name": "Bahorning o’n yeti lahzasi",
         "author": "Y.S.Semyanov",
-        "genre": "Fiction, Adventure, Drama"
+        "genre": "Fiction, Adventure, Drama",
+      "image:"
     },
     {
         "id": "390",
         "name": "Privalov millionlari",
         "author": "D.N.Mamin-Sibiryak",
-        "genre": "Fiction, Comedy, Satire"
+        "genre": "Fiction, Comedy, Satire",
+      "image:"
     },
     {
         "id": "391",
         "name": "Oq bim qoraquloq",
         "author": "G.N.Troyepolskiy",
-        "genre": "Fiction, Social issues"
+        "genre": "Fiction, Social issues",
+      "image:"
     },
     {
         "id": "392",
         "name": "Hayot va qismat",
         "author": "V.S.Grossman",
-        "genre": "Fiction, Drama, Psychological"
+        "genre": "Fiction, Drama, Psychological",
+      "image:"
     },
     {
         "id": "393",
         "name": "Msensk uyezdidan chiqqan makbet xonim",
         "author": "N.S.Leskov",
-        "genre": "Fiction, Drama, Social issues"
+        "genre": "Fiction, Drama, Social issues",
+      "image:"
     },
     {
         "id": "394",
         "name": "Sohildagi uy",
         "author": "Y.V.Frifonov",
-        "genre": "Educational, Children's literature"
+        "genre": "Educational, Children's literature",
+      "image:"
     },
     {
         "id": "395",
         "name": "Muxtor vazirning o’limi",
         "author": "Y.N.Tinyanov",
-        "genre": "Fiction, Children's literature, Adventure"
+        "genre": "Fiction, Children's literature, Adventure",
+      "image:"
     },
     {
         "id": "396",
         "name": "Alisher Navoiy ijodida soqiy obrazi",
         "author": "Odiljon Avaznazarov",
-        "genre": "Non-fiction, Educational"
+        "genre": "Non-fiction, Educational",
+      "image:"
     },
     {
         "id": "398",
         "name": "Bolalar uchun maqollar,topishmoqlar",
         "author": "Zarchechak",
-        "genre": "Non-fiction, Educational"
+        "genre": "Non-fiction, Educational",
+      "image:"
     },
     {
         "id": "399",
         "name": "Shum bola",
         "author": "G’afur G’ulom",
-        "genre": "Educational, Fiction, Children's literature"
+        "genre": "Educational, Fiction, Children's literature",
+      "image:"
     },
     {
         "id": "400",
         "name": "Bolshaya Ensiklopediya znaniy",
         "author": "-",
-        "genre": "Fiction, Adventure"
+        "genre": "Fiction, Adventure",
+      "image:"
     },
     {
         "id": "401",
         "name": "Ensiklopediya aforizmov misliy",
         "author": "Moskva",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "402",
         "name": "30 Shagov k russkomu yaziku",
         "author": "K.Sh.Turdiyeva",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "403",
         "name": "She’riyat durdonalari",
         "author": "M.Yusuf",
-        "genre": "Poetry"
+        "genre": "Poetry",
+      "image:"
     },
     {
         "id": "404",
         "name": "Molxona",
         "author": "Jorj Oruell",
-        "genre": "Fiction, Social issues"
+        "genre": "Fiction, Social issues",
+      "image:"
     },
     {
         "id": "405",
         "name": "Ilon Mask",
         "author": "Eshli Vens",
-        "genre": "Biography, Non-fiction"
+        "genre": "Biography, Non-fiction",
+      "image:"
     },
     {
         "id": "406",
         "name": "Asalari Mayaning sarguzashtlari",
         "author": "Valdemar Bonsels",
-        "genre": "Fiction, Children's literature, Adventure"
+        "genre": "Fiction, Children's literature, Adventure",
+      "image:"
     },
     {
         "id": "408",
         "name": "Muallaq minora",
         "author": "Jahon xalqlari ertaklari",
-        "genre": "Fiction, Folklore, Children's literature"
+        "genre": "Fiction, Folklore, Children's literature",
+      "image:"
     },
     {
         "id": "410",
         "name": "Bog’chasaroy fontani",
         "author": "A.S.Pushkin",
-        "genre": "Fiction, Poetry, Romance"
+        "genre": "Fiction, Poetry, Romance",
+      "image:"
     },
     {
         "id": "411",
         "name": "Ming bir kecha",
         "author": "Arab ertaklari (2)",
-        "genre": "Fiction, Folklore, Adventure"
+        "genre": "Fiction, Folklore, Adventure",
+      "image:"
     },
     {
         "id": "412",
         "name": "Ming bir kecha",
         "author": "Arab ertaklari (3)",
-        "genre": "Fiction, Folklore, Adventure"
+        "genre": "Fiction, Folklore, Adventure",
+      "image:"
     },
     {
         "id": "413",
         "name": "Ming bir kecha",
         "author": "Arab ertaklari (4)",
-        "genre": "Fiction, Folklore, Adventure"
+        "genre": "Fiction, Folklore, Adventure",
+      "image:"
     },
     {
         "id": "414",
         "name": "Ming bir kecha",
         "author": "Arab ertaklari (6)",
-        "genre": "Fiction, Folklore, Adventure"
+        "genre": "Fiction, Folklore, Adventure",
+      "image:"
     },
     {
         "id": "415",
         "name": "Ming bir kecha",
         "author": "Arab ertaklari (5)",
-        "genre": "Fiction, Folklore, Adventure"
+        "genre": "Fiction, Folklore, Adventure",
+      "image:"
     },
     {
         "id": "416",
         "name": "Ming bir kecha",
         "author": "Arab ertaklari (7)",
-        "genre": "Fiction, Folklore, Adventure"
+        "genre": "Fiction, Folklore, Adventure",
+      "image:"
     },
     {
         "id": "417",
         "name": "Nechun yig’larsen,ey bulbul",
         "author": "Yunus Emro",
-        "genre": "Poetry"
+        "genre": "Poetry",
+      "image:"
     },
     {
         "id": "419",
         "name": "Muhabbat kitobi",
         "author": "Salim Ashur",
-        "genre": "Fiction, Romance"
+        "genre": "Fiction, Romance",
+      "image:"
     },
     {
         "id": "421",
         "name": "Zamonaviy boshqaruv sotsiologiyasi",
         "author": "Mansur Bekmurodov",
-        "genre": "Non-fiction, Sociology"
+        "genre": "Non-fiction, Sociology",
+      "image:"
     },
     {
         "id": "422",
         "name": "Konvert odam",
         "author": "Ashurali Jo’rayev",
-        "genre": "Fiction, Fantasy"
+        "genre": "Fiction, Fantasy",
+      "image:"
     },
     {
         "id": "423",
         "name": "Garri Potter va ajal tuhfalari",
         "author": "Joanna Ketling Rouling",
-        "genre": "Fiction, Fantasy"
+        "genre": "Fiction, Fantasy",
+      "image:"
     },
     {
         "id": "424",
         "name": "Garri Potter va zoti past Shahzoda",
         "author": "Joanna Ketling Rouling",
-        "genre": "Fiction, Fantasy"
+        "genre": "Fiction, Fantasy",
+      "image:"
     },
     {
         "id": "425",
         "name": "Garri Potter va maxfiy xona",
         "author": "Joanna Ketling Rouling",
-        "genre": "Fiction, Fantasy"
+        "genre": "Fiction, Fantasy",
+      "image:"
     },
     {
         "id": "426",
         "name": "“Kuntug’mish”dostoni",
         "author": "Xalq og’zaki ijodi",
-        "genre": "Fiction, Folklore"
+        "genre": "Fiction, Folklore",
+      "image:"
     },
     {
         "id": "427",
         "name": "Uzunpaypoq Peppi",
         "author": "Astrid Lindgren",
-        "genre": "Fiction, Children's Literature"
+        "genre": "Fiction, Children's Literature",
+      "image:"
     },
     {
         "id": "428",
         "name": "O’zbek tili me’yorlari",
         "author": "Nizomiddin Mahmudov",
-        "genre": "Non-fiction, Educational"
+        "genre": "Non-fiction, Educational",
+      "image:"
     },
     {
         "id": "429",
         "name": "Yuridik terminlarning ruscha",
         "author": "Akmal Saidov",
-        "genre": "Non-fiction, Political, Educational"
+        "genre": "Non-fiction, Political, Educational",
+      "image:"
     },
     {
         "id": "430",
         "name": "Harbiy atamalarning yangi izohli lug’ati",
         "author": "Nizomiddin Mahmudov",
-        "genre": "Non-fiction, Educational"
+        "genre": "Non-fiction, Educational",
+      "image:"
     },
     {
         "id": "431",
         "name": "So’z hiyoboni",
         "author": "Bahodir Karimov",
-        "genre": "Non-fiction, Educational"
+        "genre": "Non-fiction, Educational",
+      "image:"
     },
     {
         "id": "432",
         "name": "Milliy o’zlik va mustaqil",
         "author": "A.Qirg’izboyev",
-        "genre": "Non-fiction, Educational"
+        "genre": "Non-fiction, Educational",
+      "image:"
     },
     {
         "id": "433",
         "name": "Ijtimoiy-siyosiy terminlarning",
         "author": "Abduvahob Madvaliyev",
-        "genre": "Non-fiction, Educational"
+        "genre": "Non-fiction, Educational",
+      "image:"
     },
     {
         "id": "434",
         "name": "Bank moliya terminlarining o’zbek",
         "author": "S.Muhammedova",
-        "genre": "Non-fiction, Finance"
+        "genre": "Non-fiction, Finance",
+      "image:"
     },
     {
         "id": "435",
         "name": "Qo’rqma",
         "author": "J.Jovliyev",
-        "genre": "Fiction, Thriller"
+        "genre": "Fiction, Thriller",
+      "image:"
     },
     {
         "id": "450",
         "name": "Yulduzli tunlar",
         "author": "Pirimqul Qodirov",
-        "genre": "Historical, Adventure."
+        "genre": "Historical, Adventure.",
+      "image:"
     },
     {
         "id": "451",
         "name": "Sariq devni o’limi",
         "author": "X.To’xtaboyev",
-        "genre": "Fiction, Children's literature"
+        "genre": "Fiction, Children's literature",
+      "image:"
     },
     {
         "id": "453",
         "name": "Yolg’on umidlar dashti",
         "author": "Tohir Malik",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "454",
         "name": "Ilk o’spirinlar tolerantligi",
         "author": "Ahror Ro’ziyev",
-        "genre": "Educational, Non-fiction."
+        "genre": "Educational, Non-fiction.",
+      "image:"
     },
     {
         "id": "455",
         "name": "Qalbingga quloq sol",
         "author": "O’tkir Hoshimov",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "456",
         "name": "Qimmatga tushgan xato",
         "author": "Komil Sindorov",
-        "genre": "Fiction, Drama, Romance"
+        "genre": "Fiction, Drama, Romance",
+      "image:"
     },
     {
         "id": "457",
         "name": "Hazrati Zangi ota va sohibqiron",
         "author": "Faxriddinxo’ja Ashrafxo’jayev",
-        "genre": "Historical, Biography, Fiction"
+        "genre": "Historical, Biography, Fiction",
+      "image:"
     },
     {
         "id": "458",
         "name": "Chinor",
         "author": "Asqad Muxtor",
-        "genre": "Fiction, Poetry, Drama"
+        "genre": "Fiction, Poetry, Drama",
+      "image:"
     },
     {
         "id": "460",
         "name": "Mungli ko’zlar",
         "author": "X.To’xtaboyev",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "461",
         "name": "Boburnoma",
         "author": "Z.M.Bobur",
-        "genre": "Historical, Biography, Non-fiction"
+        "genre": "Historical, Biography, Non-fiction",
+      "image:"
     },
     {
         "id": "462",
         "name": "Ey,farzand",
         "author": "Imom Abu Homid G’azzoliy",
-        "genre": "Philosophy, Educational, Religious"
+        "genre": "Philosophy, Educational, Religious",
+      "image:"
     },
     {
         "id": "463",
         "name": "Qobusnoma",
         "author": "Kaykovus",
-        "genre": "Historical, Literature, Educational"
+        "genre": "Historical, Literature, Educational",
+      "image:"
     },
     {
         "id": "464",
         "name": "Chinor",
         "author": "Asqad Muxtor",
-        "genre": "Fiction, Drama, Historical"
+        "genre": "Fiction, Drama, Historical",
+      "image:"
     },
     {
         "id": "465",
         "name": "Sariq devni minib",
         "author": "X.To’xtaboyev",
-        "genre": "Fiction, Adventure, Fantasy"
+        "genre": "Fiction, Adventure, Fantasy",
+      "image:"
     },
     {
         "id": "466",
         "name": "Zulmat ichra nur",
         "author": "Mirkarim Osim",
-        "genre": "Fiction, Drama, Mystery"
+        "genre": "Fiction, Drama, Mystery",
+      "image:"
     },
     {
         "id": "467",
         "name": "Sherlok Holmesning so’nggi sarguzashtlari",
         "author": "Artur Konan Doyl",
-        "genre": "Fiction, Mystery, Adventure"
+        "genre": "Fiction, Mystery, Adventure",
+      "image:"
     },
     {
         "id": "468",
         "name": "Imomning maneken qizi",
         "author": "Omina Shenliko’g’li",
-        "genre": "Fiction, Fantasy."
+        "genre": "Fiction, Fantasy.",
+      "image:"
     },
     {
         "id": "469",
         "name": "Garri Potter va zoti past shahzoda",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Fiction, Fantasy, Adventure"
+        "genre": "Fiction, Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "470",
         "name": "Garri Potter va maxfiy xona",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Fiction, Fantasy, Adventure"
+        "genre": "Fiction, Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "471",
         "name": "Garri Potter va Azkaban mahbusi",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Fiction, Fantasy, Adventure"
+        "genre": "Fiction, Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "472",
         "name": "Garri Potter va afsonaviy tosh",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Fiction, Fantasy, Adventure"
+        "genre": "Fiction, Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "473",
         "name": "Garri Potter va olov kubogi",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Fiction, Fantasy, Adventure"
+        "genre": "Fiction, Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "474",
         "name": "Garri Potter va qaqnus ordeni",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Fiction, Fantasy, Adventure"
+        "genre": "Fiction, Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "475",
         "name": "Garri Potter va ajal tuhfalari",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Fiction, Fantasy, Adventure"
+        "genre": "Fiction, Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "476",
         "name": "Qirolichaning yurishi",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Fiction, Fantasy, Adventure"
+        "genre": "Fiction, Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "477",
         "name": "Yulduzli tunlar",
         "author": "Pirimqul Qodirov",
-        "genre": "Fiction, Historical, Drama"
+        "genre": "Fiction, Historical, Drama",
+      "image:"
     },
     {
         "id": "478",
         "name": "Avlodlar dovoni",
         "author": "Pirimqul Qodirov",
-        "genre": "Fiction, Historical."
+        "genre": "Fiction, Historical.",
+      "image:"
     },
     {
         "id": "481",
         "name": "Ulug’bek xazinasi",
         "author": "Odil Yoqubov",
-        "genre": "Fiction, Historical, Adventure"
+        "genre": "Fiction, Historical, Adventure",
+      "image:"
     },
     {
         "id": "482",
         "name": "Mehrobdan chayon",
         "author": "Abdulla Qodiriy",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "483",
         "name": "Kecha va kunduz",
         "author": "Abdulhamid Cho’lpon",
-        "genre": "Fiction, Drama, Historical"
+        "genre": "Fiction, Drama, Historical",
+      "image:"
     },
     {
         "id": "484",
         "name": "Xameleon Hikoyalar",
         "author": "Anton Chexov",
-        "genre": "Fiction, Children's literature"
+        "genre": "Fiction, Children's literature",
+      "image:"
     },
     {
         "id": "485",
         "name": "So’nggi afsus",
         "author": "Gi de Mopassan",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "486",
         "name": "Kattalashtirilgan surat",
         "author": "Dino Butsatti",
-        "genre": "Fiction, Mystery"
+        "genre": "Fiction, Mystery",
+      "image:"
     },
     {
         "id": "487",
         "name": "Saylanma",
         "author": "Muhammad Yusuf",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "488",
         "name": "The spoilers",
         "author": "Matt Braun",
-        "genre": "Fiction, Thriller, Mystery"
+        "genre": "Fiction, Thriller, Mystery",
+      "image:"
     },
     {
         "id": "489",
         "name": "Wanting you",
         "author": "Nan Ryan",
-        "genre": "Fiction, Romance."
+        "genre": "Fiction, Romance.",
+      "image:"
     },
     {
         "id": "490",
         "name": "He sees you when you’re sleeping",
         "author": "Mary and Carol Higgins Clark",
-        "genre": "Fiction, Mystery, Thriller"
+        "genre": "Fiction, Mystery, Thriller",
+      "image:"
     },
     {
         "id": "491",
         "name": "Iced",
         "author": "Carol Higgins Clark",
-        "genre": "Fiction, Mystery, Thriller"
+        "genre": "Fiction, Mystery, Thriller",
+      "image:"
     },
     {
         "id": "492",
         "name": "The wild baron",
         "author": "Catherine Coulter",
-        "genre": "Fiction, Historical, Adventure"
+        "genre": "Fiction, Historical, Adventure",
+      "image:"
     },
     {
         "id": "493",
         "name": "Vavilonlik eng boy odam",
         "author": "Jorj Samuel Kleyson",
-        "genre": "Fiction, Historical, Biography"
+        "genre": "Fiction, Historical, Biography",
+      "image:"
     },
     {
         "id": "494",
         "name": "Star trek voyager",
         "author": "Steven Piziks",
-        "genre": "Fiction, Science Fiction, Adventure"
+        "genre": "Fiction, Science Fiction, Adventure",
+      "image:"
     },
     {
         "id": "495",
         "name": "Capital crimes",
         "author": "Stuard Woods",
-        "genre": "Fiction, Thriller, Mystery"
+        "genre": "Fiction, Thriller, Mystery",
+      "image:"
     },
     {
         "id": "496",
         "name": "Tuzoq",
         "author": "Zokir Xudoyshukur",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "497",
         "name": "The end of everything",
         "author": "Katie Mask",
-        "genre": "Fiction, Drama, Mystery"
+        "genre": "Fiction, Drama, Mystery",
+      "image:"
     },
     {
         "id": "498",
         "name": "Disclosure",
         "author": "Michael Crichton",
-        "genre": "Fiction, Science Fiction, Thriller"
+        "genre": "Fiction, Science Fiction, Thriller",
+      "image:"
     },
     {
         "id": "499",
         "name": "Death on the verandah",
         "author": "Cynthia Manson",
-        "genre": "Fiction, Mystery, Thriller"
+        "genre": "Fiction, Mystery, Thriller",
+      "image:"
     },
     {
         "id": "500",
         "name": "Isaac Asimov’s robots in time",
         "author": "William F.Eve",
-        "genre": "Fiction, Science Fiction, Fantasy"
+        "genre": "Fiction, Science Fiction, Fantasy",
+      "image:"
     },
     {
         "id": "501",
         "name": "Murder well-done",
         "author": "Claudia Bishop",
-        "genre": "Fiction, Mystery."
+        "genre": "Fiction, Mystery.",
+      "image:"
     },
     {
         "id": "502",
         "name": "Barrier island",
         "author": "John D Macdonald",
-        "genre": "Fiction, Mystery, Thriller"
+        "genre": "Fiction, Mystery, Thriller",
+      "image:"
     },
     {
         "id": "503",
         "name": "His brother’s bride",
         "author": "Judith Bowen",
-        "genre": "Fiction, Romance."
+        "genre": "Fiction, Romance.",
+      "image:"
     },
     {
         "id": "504",
         "name": "Shotgun ridge",
         "author": "Mindy Neff",
-        "genre": "Fiction, Romance."
+        "genre": "Fiction, Romance.",
+      "image:"
     },
     {
         "id": "505",
         "name": "Dirty tricks",
         "author": "Michael Dibdin",
-        "genre": "Fiction, Mystery, Thriller"
+        "genre": "Fiction, Mystery, Thriller",
+      "image:"
     },
     {
         "id": "506",
         "name": "Mehribonlar",
         "author": "Alp Jamol",
-        "genre": "Fiction, Romance, Historical"
+        "genre": "Fiction, Romance, Historical",
+      "image:"
     },
     {
         "id": "507",
         "name": "Oq kema",
         "author": "Chingiz Aytmatov",
-        "genre": "Fiction, Adventure"
+        "genre": "Fiction, Adventure",
+      "image:"
     },
     {
         "id": "508",
         "name": "Zulmat ichra nur",
         "author": "Mirkarim Osim",
-        "genre": "Fiction, Drama, Mystery"
+        "genre": "Fiction, Drama, Mystery",
+      "image:"
     },
     {
         "id": "509",
         "name": "Dunyoning ishlari",
         "author": "O’tkir Hoshimov",
-        "genre": "Fiction, Drama."
+        "genre": "Fiction, Drama.",
+      "image:"
     },
     {
         "id": "510",
         "name": "Bahor sog’inchi",
         "author": "Nazar Shukur",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "511",
         "name": "My fellow traveler",
         "author": "Maxim Gorky",
-        "genre": "Fiction, Historical"
+        "genre": "Fiction, Historical",
+      "image:"
     },
     {
         "id": "512",
         "name": "The dragon’s teeth",
         "author": "Mythological stories",
-        "genre": "Fiction, Fantasy, Fairy Tales"
+        "genre": "Fiction, Fantasy, Fairy Tales",
+      "image:"
     },
     {
         "id": "513",
         "name": "Dutch fairy tales",
         "author": "William Elliot Griffis",
-        "genre": "Fiction, Adventure, Fairy Tales"
+        "genre": "Fiction, Adventure, Fairy Tales",
+      "image:"
     },
     {
         "id": "514",
         "name": "The island house",
         "author": "F.M.Holmes",
-        "genre": "Fiction, Fantasy"
+        "genre": "Fiction, Fantasy",
+      "image:"
     },
     {
         "id": "515",
         "name": "The nose and a may night",
         "author": "Nikolai Vasilievich Gogol",
-        "genre": "Fiction, Historical"
+        "genre": "Fiction, Historical",
+      "image:"
     },
     {
         "id": "516",
         "name": "Erta qaytgan turnalar",
         "author": "Chingiz Aytmatov",
-        "genre": "Fiction, Drama, Romance"
+        "genre": "Fiction, Drama, Romance",
+      "image:"
     },
     {
         "id": "517",
         "name": "Menkim, sohibqiron-jahongir Temur",
         "author": "Marsel Brion",
-        "genre": "Fiction, Historical"
+        "genre": "Fiction, Historical",
+      "image:"
     },
     {
         "id": "518",
         "name": "Ko’ngil nimadan qorayadi",
         "author": "Tohir Malik",
-        "genre": "Fiction, Drama, Psychological"
+        "genre": "Fiction, Drama, Psychological",
+      "image:"
     },
     {
         "id": "519",
         "name": "Mehrobdan chayon",
         "author": "A.Qodiriy",
-        "genre": "Fiction, Historical"
+        "genre": "Fiction, Historical",
+      "image:"
     },
     {
         "id": "520",
         "name": "Avlodlar dovoni",
         "author": "Pirimqul Qodirov",
-        "genre": "Fiction, Historical."
+        "genre": "Fiction, Historical.",
+      "image:"
     },
     {
         "id": "521",
         "name": "Shum bola",
         "author": "G‘afur G‘ulom",
-        "genre": "Fiction, Children's Literature, Adventure"
+        "genre": "Fiction, Children's Literature, Adventure",
+      "image:"
     },
     {
         "id": "522",
         "name": "Adabiyotdan mukammal 1-j",
         "author": "Nilufar Rasulova",
-        "genre": "Educational, Literature"
+        "genre": "Educational, Literature",
+      "image:"
     },
     {
         "id": "523",
         "name": "Boburnoma",
         "author": "Z.M. Bobur",
-        "genre": "Fiction, Historical, Biography"
+        "genre": "Fiction, Historical, Biography",
+      "image:"
     },
     {
         "id": "524",
         "name": "O‘yla va boy bo‘l",
         "author": "Napaleon Hill",
-        "genre": "Finance, Business"
+        "genre": "Finance, Business",
+      "image:"
     },
     {
         "id": "525",
         "name": "Ong qudrati bolalar uchun",
         "author": "Jon Kexo",
-        "genre": "Educational, Children's Literature"
+        "genre": "Educational, Children's Literature",
+      "image:"
     },
     {
         "id": "526",
         "name": "Ikki eshik orasi",
         "author": "O‘tkir Hoshimov",
-        "genre": "Fiction, Drama, Social Issues"
+        "genre": "Fiction, Drama, Social Issues",
+      "image:"
     },
     {
         "id": "527",
         "name": "Uyg’ongan millat ma’rifati",
         "author": "Begali Qosimov",
-        "genre": "Educational, Non-fiction, Historical"
+        "genre": "Educational, Non-fiction, Historical",
+      "image:"
     },
     {
         "id": "528",
         "name": "O‘zbeklar",
         "author": "O‘tkir Hoshimov",
-        "genre": "Novel, Short stories"
+        "genre": "Novel, Short stories",
+      "image:"
     },
     {
         "id": "529",
         "name": "Bilmasvoy va do‘stlari",
         "author": "Nikolay Nosov",
-        "genre": "Fairy tale, Fiction"
+        "genre": "Fairy tale, Fiction",
+      "image:"
     },
     {
         "id": "530",
         "name": "Mehrobdan chayon",
         "author": "Abdulla Qodiriy",
-        "genre": "Novel, Historical"
+        "genre": "Novel, Historical",
+      "image:"
     },
     {
         "id": "531",
         "name": "Boburnoma",
         "author": "Z.M.Bobur",
-        "genre": "Historical, Biography"
+        "genre": "Historical, Biography",
+      "image:"
     },
     {
         "id": "532",
         "name": "Algebradan masalalar to‘plami",
         "author": "M.A.Mirzaahmedov",
-        "genre": "Educational, Mathematics"
+        "genre": "Educational, Mathematics",
+      "image:"
     },
     {
         "id": "533",
         "name": "Uch og‘ayni botirlar",
         "author": "O‘zbek xalq ertaklari",
-        "genre": "Fiction, Fairy tale, Adventure"
+        "genre": "Fiction, Fairy tale, Adventure",
+      "image:"
     },
     {
         "id": "534",
         "name": "The old man and the sea",
         "author": "Ernest Hemingway",
-        "genre": "Novel, Nautical Fiction"
+        "genre": "Novel, Nautical Fiction",
+      "image:"
     },
     {
         "id": "535",
         "name": "Graf Monte Kristo I",
         "author": "Aleksandr Dyuma",
-        "genre": "Novel, Romance, Fiction, Adventure"
+        "genre": "Novel, Romance, Fiction, Adventure",
+      "image:"
     },
     {
         "id": "536",
         "name": "Graf Monte Kristo II",
         "author": "Aleksandr Dyuma",
-        "genre": "Novel, Romance, Fiction, Adventure"
+        "genre": "Novel, Romance, Fiction, Adventure",
+      "image:"
     },
     {
         "id": "537",
         "name": "Qora ko‘zlar",
         "author": "Pirimqul Qodirov",
-        "genre": "Novel, Story"
+        "genre": "Novel, Story",
+      "image:"
     },
     {
         "id": "538",
         "name": "Humoyun va Akbar",
         "author": "Pirimqul Qodirov",
-        "genre": "Historical, Tragedy, Biography"
+        "genre": "Historical, Tragedy, Biography",
+      "image:"
     },
     {
         "id": "539",
         "name": "Hayyom",
         "author": "Nabi Jaloliddin",
-        "genre": "Historical, Biography"
+        "genre": "Historical, Biography",
+      "image:"
     },
     {
         "id": "540",
         "name": "Haqiqiy omad kaliti",
         "author": "Ahadquli Xolmuhammad",
-        "genre": "Business, Educational, Self improvement"
+        "genre": "Business, Educational, Self improvement",
+      "image:"
     },
     {
         "id": "541",
         "name": "Robinzon Kruzoning hayoti",
         "author": "Daniel Defo",
-        "genre": "Novel, Adventure, Stories"
+        "genre": "Novel, Adventure, Stories",
+      "image:"
     },
     {
         "id": "542",
         "name": "Onaizor",
         "author": "Odil Yoqubov",
-        "genre": "Novel, Stories"
+        "genre": "Novel, Stories",
+      "image:"
     },
     {
         "id": "543",
         "name": "Algebradan masalalar to‘plami",
         "author": "M.A.Mirzaahmedov",
-        "genre": "Educational, Algebra, Mathematics"
+        "genre": "Educational, Algebra, Mathematics",
+      "image:"
     },
     {
         "id": "544",
         "name": "Yulduzli tunlar",
         "author": "Pirimqul Qodirov",
-        "genre": "Novel, Historical"
+        "genre": "Novel, Historical",
+      "image:"
     },
     {
         "id": "545",
         "name": "Mohigul",
         "author": "Hasan Aziz",
-        "genre": "Historical, Story"
+        "genre": "Historical, Story",
+      "image:"
     },
     {
         "id": "546",
         "name": "Ichingdagi ichingdadir",
         "author": "Jaloliddin Rumiy",
-        "genre": "Philosophy, Educational, Religious"
+        "genre": "Philosophy, Educational, Religious",
+      "image:"
     },
     {
         "id": "547",
         "name": "Matematikadan masalalar to‘plami",
         "author": "M.A.Mirzaahmedov",
-        "genre": "Educational, Mathematics"
+        "genre": "Educational, Mathematics",
+      "image:"
     },
     {
         "id": "548",
         "name": "English in topics",
         "author": "Abbos Irisqulov",
-        "genre": "Educational, English language"
+        "genre": "Educational, English language",
+      "image:"
     },
     {
         "id": "549",
         "name": "O‘z hayotingga ishon",
         "author": "Luiza Xey",
-        "genre": "Psychology, Self improvement"
+        "genre": "Psychology, Self improvement",
+      "image:"
     },
     {
         "id": "550",
         "name": "Boy ota,kambag‘al ota",
         "author": "Robert Kiyosaki",
-        "genre": "Self improvement, Business"
+        "genre": "Self improvement, Business",
+      "image:"
     },
     {
         "id": "551",
         "name": "Ikki eshik orasi",
         "author": "O‘tkir Hoshimov",
-        "genre": "Novel, Story"
+        "genre": "Novel, Story",
+      "image:"
     },
     {
         "id": "552",
         "name": "Ulug‘bek xazinasi",
         "author": "Odil Yoqubov",
-        "genre": "Novel, Historical"
+        "genre": "Novel, Historical",
+      "image:"
     },
     {
         "id": "553",
         "name": "Gulliverning sayohatlari",
         "author": "Jonatan Svift",
-        "genre": "Novel, Fiction, Fantasy, Adventure, Children's literature"
+        "genre": "Novel, Fiction, Fantasy, Adventure, Childre,n's    "image:"lite
+        rature"
     },
     {
         "id": "554",
         "name": "Ikki eshik orasi",
         "author": "O‘tkir Hoshimov",
-        "genre": "Novel, Story"
+        "genre": "Novel, Story",
+      "image:"
     },
     {
         "id": "555",
         "name": "Temur tuzuklari",
         "author": "Amir Temur",
-        "genre": "Historical, Politics, Biography"
+        "genre": "Historical, Politics, Biography",
+      "image:"
     },
     {
         "id": "556",
         "name": "The jungle book",
         "author": "Rudyard Kiplings",
-        "genre": "Fiction, Children's Literature"
+        "genre": "Fiction, Children's Literature",
+      "image:"
     },
     {
         "id": "557",
         "name": "Kafansiz ko‘milganlar",
         "author": "Shukurullo",
-        "genre": "Fiction, Historical, Drama"
+        "genre": "Fiction, Historical, Drama",
+      "image:"
     },
     {
         "id": "558",
         "name": "O‘n besh yoshli kapitan",
         "author": "Jyul Vern",
-        "genre": "Children's Literature, Adventure, Fiction"
+        "genre": "Children's Literature, Adventure, Fiction",
+      "image:"
     },
     {
         "id": "559",
         "name": "Bolalik",
         "author": "Oybek",
-        "genre": "Short stories, Fiction"
+        "genre": "Short stories, Fiction",
+      "image:"
     },
     {
         "id": "560",
         "name": "Qasoskorning oltin boshi",
         "author": "Xudoyberdi To‘xtaboyev",
-        "genre": "Fiction, Historical, Adventure"
+        "genre": "Fiction, Historical, Adventure",
+      "image:"
     },
     {
         "id": "561",
         "name": "Sulton Jaloliddin Manguberdi",
         "author": "Baxtiyor Abdug‘afur",
-        "genre": "Fiction, Historical, Biography"
+        "genre": "Fiction, Historical, Biography",
+      "image:"
     },
     {
         "id": "562",
         "name": "Oq kema; Birinchi muallim",
         "author": "Chingiz Aytmatov",
-        "genre": "Fiction, Children's literature, Adventure"
+        "genre": "Fiction, Children's literature, Adventure",
+      "image:"
     },
     {
         "id": "563",
         "name": "Robinzonlar maktabi",
         "author": "Jyul Vern",
-        "genre": "Fiction, Adventure."
+        "genre": "Fiction, Adventure.",
+      "image:"
     },
     {
         "id": "564",
         "name": "Suv ostida asakson ming kilometr",
         "author": "Jyul Vern",
-        "genre": "Fiction, Adventure, Science Fiction"
+        "genre": "Fiction, Adventure, Science Fiction",
+      "image:"
     },
     {
         "id": "565",
         "name": "Inglizcha-ozbekcha lug‘at",
         "author": "Fakhriddin Rakhmatov",
-        "genre": "Educational."
+        "genre": "Educational.",
+      "image:"
     },
     {
         "id": "566",
         "name": "The 5 practices in Practice",
         "author": "Margaret (Peg) Smith",
-        "genre": "Educational, Non-fiction"
+        "genre": "Educational, Non-fiction",
+      "image:"
     },
     {
         "id": "567",
         "name": "5  practices for orchertrating",
         "author": "Margaret S Smith",
-        "genre": "Educational, Non-fiction"
+        "genre": "Educational, Non-fiction",
+      "image:"
     },
     {
         "id": "568",
         "name": "American Romance celebrates it’s 1000",
         "author": "Judy Christenberry",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "569",
         "name": "The baby git",
         "author": "Bethany Campbell",
-        "genre": "Romance"
+        "genre": "Romance",
+      "image:"
     },
     {
         "id": "570",
         "name": "The blue nowhere",
         "author": "Jefferey Dreaver",
-        "genre": "Thriller, Mystery"
+        "genre": "Thriller, Mystery",
+      "image:"
     },
     {
         "id": "571",
         "name": "The perfect storm",
         "author": "Sebastian Junger",
-        "genre": "Adventure, Non-fiction"
+        "genre": "Adventure, Non-fiction",
+      "image:"
     },
     {
         "id": "572",
         "name": "Somethings cooking",
         "author": "Joanne Pence",
-        "genre": "Mystery, Fiction"
+        "genre": "Mystery, Fiction",
+      "image:"
     },
     {
         "id": "573",
         "name": "Mimosa Grove",
         "author": "Dinah McCall",
-        "genre": "Fiction, Romance"
+        "genre": "Fiction, Romance",
+      "image:"
     },
     {
         "id": "574",
         "name": "The first family of Texas",
         "author": "K.N.Casper",
-        "genre": "Historical, Fiction"
+        "genre": "Historical, Fiction",
+      "image:"
     },
     {
         "id": "575",
         "name": "Don Coldsmith",
         "author": "Raven Mocker",
-        "genre": "Adventure, Fiction"
+        "genre": "Adventure, Fiction",
+      "image:"
     },
     {
         "id": "576",
         "name": "Rainmaker",
         "author": "John Grisham’s",
-        "genre": "Thriller, Fiction"
+        "genre": "Thriller, Fiction",
+      "image:"
     },
     {
         "id": "577",
         "name": "The seventh gate",
         "author": "Keith Ross Leckie",
-        "genre": "Fiction, Thriller"
+        "genre": "Fiction, Thriller",
+      "image:"
     },
     {
         "id": "578",
         "name": "Qo‘rqma",
         "author": "J.Jovliyev",
-        "genre": "Thriller"
+        "genre": "Thriller",
+      "image:"
     },
     {
         "id": "579",
         "name": "Mehrobdan chayon",
         "author": "A.Qodiriy",
-        "genre": "Fiction, Historical"
+        "genre": "Fiction, Historical",
+      "image:"
     },
     {
         "id": "580",
         "name": "Yangi O‘zbekiston strategiyasi",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political, Non-fiction"
+        "genre": "Political, Non-fiction",
+      "image:"
     },
     {
         "id": "581",
         "name": "Yulduzli tunlar",
         "author": "Pirimqul Qodirov",
-        "genre": "Fiction, Historical"
+        "genre": "Fiction, Historical",
+      "image:"
     },
     {
         "id": "582",
         "name": "Menkim,sohibqiron Jahongir",
         "author": "Marsel Brion",
-        "genre": "Biography, Historical, Fiction"
+        "genre": "Biography, Historical, Fiction",
+      "image:"
     },
     {
         "id": "583",
         "name": "Maymunlar saltanati",
         "author": "Nurali Qobul",
-        "genre": "Fantasy, Adventure"
+        "genre": "Fantasy, Adventure",
+      "image:"
     },
     {
         "id": "584",
         "name": "O‘qing,faqat yig‘lamang",
         "author": "Ilhom Qahhorov",
-        "genre": "Educational, Non-fiction"
+        "genre": "Educational, Non-fiction",
+      "image:"
     },
     {
         "id": "585",
         "name": "Alvido,Gulsari",
         "author": "Ch.Aytmatov",
-        "genre": "Fiction, Novel"
+        "genre": "Fiction, Novel",
+      "image:"
     },
     {
         "id": "586",
         "name": "Qaylardasan,bolaligim?",
         "author": "X.To‘xtaboyev",
-        "genre": "Biography, Literature"
+        "genre": "Biography, Literature",
+      "image:"
     },
     {
         "id": "587",
         "name": "Vavilonlik eng boy odam",
         "author": "Jorj Samuel Kleyson",
-        "genre": "Historical, Fiction"
+        "genre": "Historical, Fiction",
+      "image:"
     },
     {
         "id": "588",
         "name": "Farg‘ona tong otguncha",
         "author": "Mirzakalon Ismoiliy",
-        "genre": "Historical, Fiction"
+        "genre": "Historical, Fiction",
+      "image:"
     },
     {
         "id": "589",
         "name": "Ulug‘ saltanat",
         "author": "Muhammad Ali",
-        "genre": "Historical, Fiction"
+        "genre": "Historical, Fiction",
+      "image:"
     },
     {
         "id": "590",
         "name": "Ufq",
         "author": "Said Ahmad",
-        "genre": "Fiction, Novel"
+        "genre": "Fiction, Novel",
+      "image:"
     },
     {
         "id": "591",
         "name": "Shonli tayanch",
         "author": "Ismoil To‘xtamishev",
-        "genre": "Political, Fiction"
+        "genre": "Political, Fiction",
+      "image:"
     },
     {
         "id": "592",
         "name": "Тебя люблю я,жизнь",
         "author": "Алишер Навоий",
-        "genre": "Biography, Poetry"
+        "genre": "Biography, Poetry",
+      "image:"
     },
     {
         "id": "597",
         "name": "G‘azal g‘izoli",
         "author": "",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "602",
         "name": "Shalola",
         "author": "",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "607",
         "name": "Eldoshlarim,dildoshlarim",
         "author": "Sirojiddin Sayyid",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "609",
         "name": "Abrorlar hayrati",
         "author": "Abdulla A’zam",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "614",
         "name": "Turnalar ohi",
         "author": "Temirpo‘lat Tillayev",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "619",
         "name": "O‘zbekistonim",
         "author": "Abdulla Oripov",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "621",
         "name": "Kelajakka boshlaydi ishonch",
         "author": "-",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "626",
         "name": "Devon",
         "author": "Paymon",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "631",
         "name": "Maroqli fasllar",
         "author": "Hamidulla Akbarov",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "636",
         "name": "Ветер моего края",
         "author": "Абдулла Орипов",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "641",
         "name": "Vatan uchun yashaylik",
         "author": "",
-        "genre": "Literature, Poetry."
+        "genre": "Literature, Poetry.",
+      "image:"
     },
     {
         "id": "646",
         "name": "Tanlangan asarlar(4)",
         "author": "Erkin A’zam",
-        "genre": "Literature, Poetry, Short Stories"
+        "genre": "Literature, Poetry, Short Stories",
+      "image:"
     },
     {
         "id": "647",
         "name": "Tanlangan asarlar(3)",
         "author": "Erkin A’zam",
-        "genre": "Literature, Poetry, Short Stories"
+        "genre": "Literature, Poetry, Short Stories",
+      "image:"
     },
     {
         "id": "650",
         "name": "Bobomdan meros bog‘lar",
         "author": "Zikrilla Ne’mat Vafoiy",
-        "genre": "Literature, Poetry."
+        "genre": "Literature, Poetry.",
+      "image:"
     },
     {
         "id": "652",
         "name": "Omonat va matonat",
         "author": "Kulman Ochil",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "657",
         "name": "Ko‘ksimdagi nur",
         "author": "Guliston Matyoqubova",
-        "genre": "Literature, Fiction"
+        "genre": "Literature, Fiction",
+      "image:"
     },
     {
         "id": "662",
         "name": "Tong tushlari",
         "author": "Faxriddin Hayit",
-        "genre": "Poetry."
+        "genre": "Poetry.",
+      "image:"
     },
     {
         "id": "667",
         "name": "Boboso‘z izidan",
         "author": "Eshqobil Shukur",
-        "genre": "Literature, Fiction"
+        "genre": "Literature, Fiction",
+      "image:"
     },
     {
         "id": "672",
         "name": "Adiblar xiyoboni",
         "author": "Albom",
-        "genre": "Literature, Poetry"
+        "genre": "Literature, Poetry",
+      "image:"
     },
     {
         "id": "674",
         "name": "Afandining afandilari",
         "author": "Abdurazzoq Obro‘y",
-        "genre": "Literature, Biography"
+        "genre": "Literature, Biography",
+      "image:"
     },
     {
         "id": "679",
         "name": "Asarlar to‘plami",
         "author": "Chingiz Aytmatov",
-        "genre": "Fiction, Literature"
+        "genre": "Fiction, Literature",
+      "image:"
     },
     {
         "id": "681",
         "name": "Asarlar to‘plami",
         "author": "O‘tkir Hoshimov",
-        "genre": "Fiction, Literature"
+        "genre": "Fiction, Literature",
+      "image:"
     },
     {
         "id": "683",
         "name": "Asarlar to‘plami",
         "author": "Ozod Sharafiddinov",
-        "genre": "Fiction, Literature"
+        "genre": "Fiction, Literature",
+      "image:"
     },
     {
         "id": "685",
         "name": "Asarlar to‘plami",
         "author": "Sharof Boshbekov",
-        "genre": "Fiction, Literature"
+        "genre": "Fiction, Literature",
+      "image:"
     },
     {
         "id": "687",
         "name": "Asarlar to‘plami",
         "author": "Abdulla She’r",
-        "genre": "Fiction, Literature"
+        "genre": "Fiction, Literature",
+      "image:"
     },
     {
         "id": "689",
         "name": "Asarlar to‘plami",
         "author": "Sa’dulla Hakim",
-        "genre": "Fiction, Literature"
+        "genre": "Fiction, Literature",
+      "image:"
     },
     {
         "id": "691",
         "name": "Asarlar to‘plami",
         "author": "Sadriddin Salim Buxoriy",
-        "genre": "Fiction, Literature"
+        "genre": "Fiction, Literature",
+      "image:"
     },
     {
         "id": "693",
         "name": "Asarlar to‘plami",
         "author": "Matyoqub Qo‘shjonov",
-        "genre": "Fiction, Literature"
+        "genre": "Fiction, Literature",
+      "image:"
     },
     {
         "id": "695",
         "name": "Asarlar to‘plami",
         "author": "Halima Xudoyberdiyeva",
-        "genre": "Fiction, Poetry"
+        "genre": "Fiction, Poetry",
+      "image:"
     },
     {
         "id": "697",
         "name": "Asarlar to‘plami",
         "author": "Hamid G‘ulom",
-        "genre": "Fiction, Poetry"
+        "genre": "Fiction, Poetry",
+      "image:"
     },
     {
         "id": "699",
         "name": "Asarlar to‘plami",
         "author": "Olim Otaxon",
-        "genre": "Fiction, Poetry"
+        "genre": "Fiction, Poetry",
+      "image:"
     },
     {
         "id": "701",
         "name": "Mehribonlar",
         "author": "Alp Jamol",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "703",
         "name": "Sog‘inch shivirlari",
         "author": "Zilola Xo‘janiyozova",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "705",
         "name": "Yaxshidir achchiq haqiqat",
         "author": "Gulchehra Umarova",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "707",
         "name": "Nasr",
         "author": "Abdusaid Ko‘chimov",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "709",
         "name": "Kecha,bugun va ertaga",
         "author": "Abduqahhor Ibrohimov",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "711",
         "name": "Bir juft so‘z",
         "author": "Rustam Musurmon",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "716",
         "name": "Oqibat",
         "author": "Rauf Subhon",
-        "genre": "Fiction, Poetry, Social Issues"
+        "genre": "Fiction, Poetry, Social Issues",
+      "image:"
     },
     {
         "id": "721",
         "name": "Yonardi ko‘nglim",
         "author": "Shukur Qurbon",
-        "genre": "Fiction, Poetry, Romance"
+        "genre": "Fiction, Poetry, Romance",
+      "image:"
     },
     {
         "id": "726",
         "name": "Yo‘ldaman nurli yo‘lda",
         "author": "G‘ayrat Majid",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "731",
         "name": "Muhabbatga ko‘m dilni",
         "author": "Farog‘at Xudoyqulova",
-        "genre": "Fiction, Poetry, Romance"
+        "genre": "Fiction, Poetry, Romance",
+      "image:"
     },
     {
         "id": "736",
         "name": "Kurtakda daraxtni ko‘rmoq",
         "author": "Vafo Fayzulloh",
-        "genre": "Fiction, Poetry."
+        "genre": "Fiction, Poetry.",
+      "image:"
     },
     {
         "id": "741",
         "name": "E’tirof",
         "author": "-",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "746",
         "name": "Пересекающиеся параллели",
         "author": "Николай Ильин",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "751",
         "name": "Odamlardan tingab hikoya",
         "author": "Xayriddin Sulton",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "756",
         "name": "Aksincha",
         "author": "Nosirjon Jo‘rayev",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "761",
         "name": "Yurayotgan yo‘llar",
         "author": "Tursun Ali",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "766",
         "name": "So‘z chamani ichra navo ko‘rguzub",
         "author": "Adhambek Alimbekov",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "771",
         "name": "Olov so‘zlar",
         "author": "-",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "776",
         "name": "Shom tovushi",
         "author": "Shuhrat Orif",
-        "genre": "Poetry"
+        "genre": "Poetry",
+      "image:"
     },
     {
         "id": "781",
         "name": "Uyg‘on,millat",
         "author": "A.Avloniy",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "786",
         "name": "Kuz sonatasi",
         "author": "Muhiddin Omon",
-        "genre": "Poetry"
+        "genre": "Poetry",
+      "image:"
     },
     {
         "id": "791",
         "name": "Muhabbat nishoni",
         "author": "Z.M.Bobur",
-        "genre": "Poetry"
+        "genre": "Poetry",
+      "image:"
     },
     {
         "id": "796",
         "name": "Maqsudam",
         "author": "Omon Matjon",
-        "genre": "Poetry"
+        "genre": "Poetry",
+      "image:"
     },
     {
         "id": "801",
         "name": "Umr daftari",
         "author": "G‘.G‘ulom",
-        "genre": "Biography"
+        "genre": "Biography",
+      "image:"
     },
     {
         "id": "806",
         "name": "Yurt g‘amxo‘ri yurak menga",
         "author": "Berdaq",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "811",
         "name": "Mulku millatga emin",
         "author": "M.R.Ogahiy",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "816",
         "name": "O‘zim har joydaman",
         "author": "Muqimiy",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "821",
         "name": "Mangu qo‘shiq",
         "author": "Mirpo‘lat Mirzo",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "826",
         "name": "Diyorim",
         "author": "Jo‘rabek Jahon",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "831",
         "name": "Shamol yo‘li",
         "author": "Jumagul Suvonova",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "836",
         "name": "So‘zmunchoq",
         "author": "S.Sayyid",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "841",
         "name": "Asrni qaritgan kun",
         "author": "Ch.Aytmatov",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "842",
         "name": "Jahon adabiyoti:modernizm va post",
         "author": "Ulug‘bek Hamdamov",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "843",
         "name": "Burgut tog‘da ulg‘ayadi",
         "author": "Nuriddin Ismoilov",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "844",
         "name": "Ulug‘bek xazinasi",
         "author": "Odil Yoqubov",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "845",
         "name": "Kompyuter savodxonligi",
         "author": "Sanjar Ro‘zimov",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "846",
         "name": "Ensiklopediya dunyo mamlakatlari",
         "author": "Davr nashriyoti",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "847",
         "name": "O‘zbekistonda o‘sadigan shifobaxsh o‘simliklar",
         "author": "A.Usmonxodjayev",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "848",
         "name": "Fozil odamlar shahri",
         "author": "Abu Nasr Farobiy",
-        "genre": "Educational, Fiction"
+        "genre": "Educational, Fiction",
+      "image:"
     },
     {
         "id": "849",
         "name": "Otamdan qolgan dalalar",
         "author": "Tog‘ay Murod",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "850",
         "name": "Farengeyt bo‘yicha",
         "author": "Rey Bredberi",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "851",
         "name": "Muhabbatning sehrli nayi",
         "author": "Momoxol Elmurodova",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "855",
         "name": "Ko‘hna karvon sadolari",
         "author": "Qahhor baxshi Qodir baxshi",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "858",
         "name": "Behbudiy haqiqati",
         "author": "Poyon Ravshanov",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "861",
         "name": "Graf Monte Kristo",
         "author": "Aleksandr Dyuma",
-        "genre": "Novel, Romance"
+        "genre": "Novel, Romance",
+      "image:"
     },
     {
         "id": "862",
         "name": "Mehrobdan chayon",
         "author": "Abdulla Qodiriy",
-        "genre": "Novel, Fiction"
+        "genre": "Novel, Fiction",
+      "image:"
     },
     {
         "id": "863",
         "name": "Qalb qasrining sultoni A.Temur",
         "author": "Nurali Qobul",
-        "genre": "Biography"
+        "genre": "Biography",
+      "image:"
     },
     {
         "id": "864",
         "name": "Qiyomat",
         "author": "Chingiz Aytmatov",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "865",
         "name": "Hislarimni qo‘zg‘ama",
         "author": "Nodar Dumbadze",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "866",
         "name": "Navoiy",
         "author": "Oybek",
-        "genre": "Novel, Biography"
+        "genre": "Novel, Biography",
+      "image:"
     },
     {
         "id": "867",
         "name": "Temur tuzuklari",
         "author": "Amir Temur",
-        "genre": "Educational, Biography"
+        "genre": "Educational, Biography",
+      "image:"
     },
     {
         "id": "869",
         "name": "Garri Potter va afsonaviy tosh",
         "author": "Joanna Ketlin Rouling",
-        "genre": "Novel, Fiction"
+        "genre": "Novel, Fiction",
+      "image:"
     },
     {
         "id": "870",
         "name": "Ritorika notiqlik san’ati",
         "author": "Irina Leshutina",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "871",
         "name": "Besh bolali yigitcha",
         "author": "Xudoyberdi To‘xtaboyev",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "872",
         "name": "Yurt taronasi",
         "author": "Jumanazar Akramov",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "877",
         "name": "Sherlok Holmes haqida hikoyalar",
         "author": "Artur Konan Doyl",
-        "genre": "Detective, Fiction, Novel"
+        "genre": "Detective, Fiction, Novel",
+      "image:"
     },
     {
         "id": "878",
         "name": "Yevgeniy Onegin",
         "author": "A.S.Pushkin",
-        "genre": ""
+        "genre": "",
+      "image:"
     },
     {
         "id": "879",
         "name": "“Ajdar”ning tavbasi",
         "author": "O‘tkir Hoshimov",
-        "genre": "Fiction, Novel"
+        "genre": "Fiction, Novel",
+      "image:"
     },
     {
         "id": "880",
         "name": "Ahmad Lutfiy Qozonchi eng sara asarlari",
         "author": "A.L.Qozonchi",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "881",
         "name": "Mening hayotim",
         "author": "Xenri Ford",
-        "genre": "Biography"
+        "genre": "Biography",
+      "image:"
     },
     {
         "id": "882",
         "name": "Tom Soyerning boshidan kechirganlari",
         "author": "Mark Tven",
-        "genre": "Fiction, Novel"
+        "genre": "Fiction, Novel",
+      "image:"
     },
     {
         "id": "883",
         "name": "Mirzo Ulug‘bek",
         "author": "Maqsud Shayxzoda",
-        "genre": "Historical, Biography"
+        "genre": "Historical, Biography",
+      "image:"
     },
     {
         "id": "884",
         "name": "Jaziramadagi odamlar",
         "author": "Luqmon Bo‘rixon",
-        "genre": "Fiction"
+        "genre": "Fiction",
+      "image:"
     },
     {
         "id": "885",
         "name": "Odam bo‘lish qiyin",
         "author": "O‘lmas Umarbekov",
-        "genre": "Biography"
+        "genre": "Biography",
+      "image:"
     },
     {
         "id": "886",
         "name": "Diqqat",
         "author": "Kel Nyuport",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "887",
         "name": "Muhabbat yolg‘on emas",
         "author": "Nilufar Xidirova",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "888",
         "name": "O‘zbekiston Respublikasi fanlar akademiyasi Abu Rayhon Beruniy",
         "author": "Silk Road Media",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "889",
         "name": "Kechikkan iqror",
         "author": "Zulayho Masharipova",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "889(2)",
         "name": "Puss in boots",
         "author": "Yuksalish kutubxonasi",
-        "genre": "Fiction"
+        "genre": "Fiction",
+      "image:"
     },
     {
         "id": "890",
         "name": "The adventures of Tom Sawyer",
         "author": "Yuksalish kutubxonasi",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "891",
         "name": "Robin Hood",
         "author": "Yuksalish kutubxonasi",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "892",
         "name": "Peter Pan",
         "author": "Yuksalish kutubxonasi",
-        "genre": "Fiction"
+        "genre": "Fiction",
+      "image:"
     },
     {
         "id": "893",
         "name": "Robinson Crusoe",
         "author": "Yuksalish kutubxonasi",
-        "genre": "Fiction"
+        "genre": "Fiction",
+      "image:"
     },
     {
         "id": "894",
         "name": "Kung Fu Panda",
         "author": "Yuksalish kutubxonasi",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "895",
         "name": "The travel of Ibn Battuta",
         "author": "Yuksalish kutubxonasi",
-        "genre": "Historical, Educational, Biography"
+        "genre": "Historical, Educational, Biography",
+      "image:"
     },
     {
         "id": "896",
         "name": "Thomas Edison",
         "author": "Yuksalish kutubxonasi",
-        "genre": "Biography"
+        "genre": "Biography",
+      "image:"
     },
     {
         "id": "897",
         "name": "Tanlangan asarlar",
         "author": "Asqad Muxtor",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "898",
         "name": "Tanlangan asarlar",
         "author": "Gabriel Garsia Markes",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "900",
         "name": "Tanlangan asarlar",
         "author": "Tog’ay Murod",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "902",
         "name": "Tanlangan asarlar",
         "author": "Halima Xudoyberdiyeva",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "906",
         "name": "1984",
         "author": "Jorj Oruell",
-        "genre": "Novel, Science Fiction, Political Fiction"
+        "genre": "Novel, Science Fiction, Political Fiction",
+      "image:"
     },
     {
         "id": "908",
         "name": "Hayotga ha de",
         "author": "Viktor Emil Frankl",
-        "genre": "Non fiction"
+        "genre": "Non fiction",
+      "image:"
     },
     {
         "id": "910",
         "name": "Qirolichaning yurishi",
         "author": "Uolter Tevis",
-        "genre": "Thriller, Novel"
+        "genre": "Thriller, Novel",
+      "image:"
     },
     {
         "id": "911",
         "name": "Записки о Шерлоке Холмсе",
         "author": "Артур Конан Дойл",
-        "genre": "Thriller, Detective"
+        "genre": "Thriller, Detective",
+      "image:"
     },
     {
         "id": "913",
         "name": "Million dollarlik xatolar",
         "author": "Pavel Annenkov",
-        "genre": "Non fiction"
+        "genre": "Non fiction",
+      "image:"
     },
     {
         "id": "915",
         "name": "Тысяча бумажных птиц",
         "author": "Тор Юдолл",
-        "genre": "Poetry"
+        "genre": "Poetry",
+      "image:"
     },
     {
         "id": "917",
         "name": "Alisher Navoiy",
         "author": "Isajon Sulton",
-        "genre": "Biography"
+        "genre": "Biography",
+      "image:"
     },
     {
         "id": "919",
         "name": "Men va pul",
         "author": "Saidmurod Davlatov",
-        "genre": "Non fiction"
+        "genre": "Non fiction",
+      "image:"
     },
     {
         "id": "920",
         "name": "Boy ota,kambag‘al ota",
         "author": "Robert Kiyosaki",
-        "genre": "Non fiction"
+        "genre": "Non fiction",
+      "image:"
     },
     {
         "id": "922",
         "name": "Essentializm.Oddiylik yo‘li",
         "author": "Greg Makkeon",
-        "genre": "Non fiction"
+        "genre": "Non fiction",
+      "image:"
     },
     {
         "id": "924",
         "name": "Amore.Храню тебя в сердце",
         "author": "Fiona Makintosh",
-        "genre": "Fantasy, romance"
+        "genre": "Fantasy, romance",
+      "image:"
     },
     {
         "id": "925",
         "name": "Язык телодвижений",
         "author": "Алан и Барбара Пиз",
-        "genre": "Non fiction"
+        "genre": "Non fiction",
+      "image:"
     },
     {
         "id": "927",
         "name": "927",
         "author": "Fiona Makintosh",
-        "genre": "Fantasy"
+        "genre": "Fantasy",
+      "image:"
     },
     {
         "id": "928",
         "name": "Я не умею управлять людьми",
         "author": "Роб Гоффи",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "930",
         "name": "ЦА как найти свою целевую",
         "author": "Том Вандербильт",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "932",
         "name": "Javdazordagi haloskor",
         "author": "Jerom Selinjer",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "934",
         "name": "Тысяча и одна ночь",
         "author": "Всемирная литература",
-        "genre": "Fiction"
+        "genre": "Fiction",
+      "image:"
     },
     {
         "id": "935",
         "name": "Унесенные ветром I",
         "author": "Маргарет Митчелл",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "936",
         "name": "Унесенные ветром II",
         "author": "Маргарет Митчелл",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "939",
         "name": "Liderlikning 21 muqarrar qarori",
         "author": "Jon Maksvell",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "940",
         "name": "COC savol ortidagi savol",
         "author": "Jon G Miller",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "942",
         "name": "O‘ylashni bas qil!",
         "author": "Robert Entoni",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "944",
         "name": "Boy bo‘lish qoidalari",
         "author": "Richard Templar",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "945",
         "name": "Финансист",
         "author": "Теодор Драйзер",
-        "genre": "Novel, fiction"
+        "genre": "Novel, fiction",
+      "image:"
     },
     {
         "id": "946",
         "name": "Rokfeller.Milliarderning xotiralari",
         "author": "Jon Davidson",
-        "genre": "Biography"
+        "genre": "Biography",
+      "image:"
     },
     {
         "id": "947",
         "name": "Ночь нежна",
         "author": "Френсис Скотт Фицджеральд",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "948",
         "name": "Odilovni otmoqchi edilar",
         "author": "Ortiqali Nomozov",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "954",
         "name": "Ma’naviyat-asosiy tushunchalar",
         "author": "O.Salimov",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "955",
         "name": "Solnoma O‘zbekiston Respublikasi Prezidenti Sh.M.Mirziyoyev",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political, historical"
+        "genre": "Political, historical",
+      "image:"
     },
     {
         "id": "956",
         "name": "2017-2021 yillar uchun O‘zb Res",
         "author": "I.Yu.Abdurahmonov",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "957",
         "name": "Jahon miqyosidagi ta’lim",
         "author": "Andreas Shlyaxer",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "958",
         "name": "O‘zbekiston qahramonlari",
         "author": "-",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "959",
         "name": "G‘ulom Zafariy",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "960",
         "name": "Abdulhamid Cho‘lpon",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "961",
         "name": "Is’hoqxon To‘ra Ibrat",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "962",
         "name": "Abdurauf  Fitrat",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "963",
         "name": "Abdulla Qodiriy",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "964",
         "name": "Abdulla Avloniy",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "965",
         "name": "Munavvarqori Abdurashidxonov",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "966",
         "name": "Mahmudxo‘ja Behbudiy",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "967",
         "name": "G‘ulom Zafariy",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "968",
         "name": "Abdulhamid Cho‘lpon",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "969",
         "name": "Is’hoqxon To‘ra Ibrat",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "970",
         "name": "Abdurauf  Fitrat",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "971",
         "name": "Abdulla Qodiriy",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "973",
         "name": "Munavvarqori Abdurashidxonov",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "974",
         "name": "Mahmudxo‘ja Behbudiy",
         "author": "Yoshlar ishlari agentligi",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "975",
         "name": "Galaktikada bir kun",
         "author": "Sa’dullo Quronov",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "976",
         "name": "Yaxshilar tajallisi",
         "author": "Sharofat Ashurova",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "977",
         "name": "Sho‘rtan shonli yillar silsilasida",
         "author": "Sharofat Ashurova",
-        "genre": "-"
+        "genre": "-",
+      "image:"
     },
     {
         "id": "978",
         "name": "Qutadg‘u bilig",
         "author": "Yusuf Xos Hojib",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "979",
         "name": "Taraqqiyot strategiyasi",
         "author": "Sh.M.Mirziyoyev",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "988",
         "name": "Da Vinchi siri",
         "author": "Den Braun",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "989",
         "name": "Oliver Tvist",
         "author": "Charles Dikkens",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "990",
         "name": "Yangi O‘zbekiston me’mori",
         "author": "Sa’dulla Iskandarov",
-        "genre": "Political"
+        "genre": "Political",
+      "image:"
     },
     {
         "id": "992",
         "name": "Ona tilim-mangu mano",
         "author": "",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "993",
         "name": "O‘zbekiston joy nomlarining izohli",
         "author": "",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "994",
         "name": "Ijod bog‘idan guldasta",
         "author": "",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "996",
         "name": "O‘zbekiston ikkinchi jahon urushi",
         "author": "",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "998",
         "name": "Ahmad Farg‘oniy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1002",
         "name": "Abu Rayhon Beruniy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1006",
         "name": "Mirzo Ulug‘bek",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1010",
         "name": "Alisher Navoiy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1014",
         "name": "Imom Termiziy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1018",
         "name": "Bahouddin Naqshband",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1022",
         "name": "Muhammad ibn Muso Xorazmiy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1026",
         "name": "Abu Ali ibn Sino",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1030",
         "name": "Imom Buxoriy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1034",
         "name": "Imom Moturudiy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1039",
         "name": "Ahmad Farg’oniy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1040",
         "name": "Abu Ali ibn Sino",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1041",
         "name": "Muhammad ibn Muso al Xorazmiy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1042",
         "name": "Bahouddin Naqshband",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1043",
         "name": "Imom Termiziy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1044",
         "name": "Imom Moturudiy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1045",
         "name": "Alisher Navoiy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1046",
         "name": "Mirzo Ulug‘bek",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1047",
         "name": "Abu Rayhon Beruniy",
         "author": "",
-        "genre": "Historical, biography"
+        "genre": "Historical, biography",
+      "image:"
     },
     {
         "id": "1048",
         "name": "Qiyomat",
         "author": "Chingiz Aytmatov",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "1049",
         "name": "Kafansiz ko‘milganlar",
         "author": "Shukurullo",
-        "genre": "Historical"
+        "genre": "Historical",
+      "image:"
     },
     {
         "id": "1050",
         "name": "Asrni titratgan kun",
         "author": "Chingiz Aytmatov",
-        "genre": "Novel"
+        "genre": "Novel",
+      "image:"
     },
     {
         "id": "1051",
         "name": "Urush va tinchlik",
         "author": "Lev Tolstoy",
-        "genre": "Historical, novel"
+        "genre": "Historical, novel",
+      "image:"
     },
     {
         "id": "1052",
         "name": "Bo‘yinga osilgan Anna",
         "author": "A.P.Chexov",
-        "genre": "Romance,fiction"
+        "genre": "Romance,fiction",
+      "image:"
     },
     {
         "id": "1053",
         "name": "Zakovat",
         "author": "",
-        "genre": "Educational"
+        "genre": "Educational",
+      "image:"
     },
     {
         "id": "",
         "name": "",
         "author": "",
-        "genre": ""
+        "genre": "",
+      "image:"
     },
     {
         "id": "",
         "name": "",
         "author": "",
-        "genre": ""
+        "genre": "",
+      "image:"
     },
     {
         "id": "1056",
         "name": "",
         "author": "",
-        "genre": ""
+        "genre": ","
+     "image:"
     }
 ]
