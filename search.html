@@ -94,6 +94,13 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
+        .book-item img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
         .hold-button, .shelves-button {
             background-color: #ff6f61;
             color: white;
@@ -158,6 +165,7 @@
                 bookItem.classList.add("book-item");
 
                 bookItem.innerHTML = `
+                    <img src="${book.image}" alt="${book.name} Cover">
                     <h2>${book.name}</h2>
                     <p>By ${book.author}</p>
                     <p>Genre: ${book.genre}</p>
