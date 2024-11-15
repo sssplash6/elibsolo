@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Catalog</title>
+    <style>
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f1ec;
+            color: #333;
+        }
+
+        /* Navbar */
+        .navbar {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 18px;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .cart-button {
+            background-color: #28a745;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .cart-button:hover {
+            background-color: #218838;
+        }
+
+        /* Catalog Title and Search */
+        .catalog {
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .search-bar {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+
+        .search-bar input[type="text"] {
+            width: 300px;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 5px 0 0 5px;
+        }
+
+        .search-bar button {
+            padding: 8px;
+            border: none;
+            background-color: #ddd;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+        }
+
+        .search-bar button:hover {
+            background-color: #bbb;
+        }
+
+        /* Book Grid */
+        .book-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .book-item {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .hold-button, .shelves-button {
+            background-color: #ff6f61;
+            color: white;
+            padding: 8px 12px;
+            border: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+
+        .hold-button {
+            background-color: #ff8c00;
+        }
+
+        .hold-button:hover, .shelves-button:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <header class="navbar">
+        <a href="#" class="logo">Public Library Website Template</a>
+        <div class="cart">
+            <button class="cart-button">Add to Cart</button>
+        </div>
+    </header>
+
+    <!-- Catalog Main Section -->
+    <main class="catalog">
+        <h1>LIBRARY CATALOG</h1>
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search the Public Library Catalog" oninput="searchBooks()">
+            <button onclick="searchBooks()">🔍</button>
+        </div>
+
+        <!-- Book Grid Section -->
+        <section id="bookGrid" class="book-grid">
+            <!-- JavaScript will populate book items here -->
+        </section>
+    </main>
+
+    <script>
+        // Fetch books data from the books.json file and display in the grid
+        async function fetchBooks() {
+            try {
+                const response = await fetch('books.json');
+                const books = await response.json();
+                displayBooks(books);
+            } catch (error) {
+                console.error("Error loading books:", error);
+            }
+        }
+
+        // Function to display books in the grid
+        function displayBooks(bookList) {
+            const bookGrid = document.getElementById("bookGrid");
+            bookGrid.innerHTML = ""; // Clear previous content
+
+            bookList.forEach(book => {
+                const bookItem = document.createElement("div");
+                bookItem.classList.add("book-item");
+
+                bookItem.innerHTML = `
+                    <h2>${book.name}</h2>
+                    <p>By ${book.author}</p>
+                    <p>Genre: ${book.genre}</p>
+                    <button class="hold-button">Place a Hold</button>
+                    <button class="shelves-button">Add to My Shelves</button>
+                `;
+                bookGrid.appendChild(bookItem);
+            });
+        }
+
+        // Function to filter books based on search query
+        function searchBooks() {
+            const query = document.getElementById("searchInput").value.toLowerCase();
+            fetch('books.json')
+                .then(response => response.json())
+                .then(books => {
+                    const filteredBooks = books.filter(book =>
+                        book.name.toLowerCase().includes(query) ||
+                        book.author.toLowerCase().includes(query) ||
+                        book.genre.toLowerCase().includes(query)
+                    );
+                    displayBooks(filteredBooks);
+                })
+                .catch(error => console.error("Error filtering books:", error));
+        }
+
+        // Initial fetch and display of books
+        fetchBooks();
+    </script>
+</body>
+</html>
